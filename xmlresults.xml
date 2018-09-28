@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="1" tests="1" time="22.06">
+ <testsuite name="Demo Project Classic Agile" timestamp="2018-09-28T16:55:02" hostname="localhost" time="22.06" errors="0" tests="1" skipped="0" disabled="0" failures="1">
+  <testcase classname="Demo Project Classic Agile" name="Scenario1 (uid:27ad7b34-920e-4656-a756-f37dc8687c6f)" time="22.057">
+   <failure type="toEqual" message="Expected false to equal true."><![CDATA[Error: Failed expectation
+    at Object.iShouldSeeTheAppLogo (C:\Backup Automation\actionwords.js:13:37)
+    at UserContext.<anonymous> (C:\Backup Automation\project_test.js:10:22)
+    at C:\Users\611422444\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+    at new ManagedPromise (C:\Users\611422444\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1077:7)
+    at ControlFlow.promise (C:\Users\611422444\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2505:12)
+    at schedulerExecute (C:\Users\611422444\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+    at TaskQueue.execute_ (C:\Users\611422444\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+    at TaskQueue.executeNext_ (C:\Users\611422444\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+    at asyncRun (C:\Users\611422444\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2974:25)]]>
+   </failure>
+  </testcase>
+ </testsuite>
+</testsuites>

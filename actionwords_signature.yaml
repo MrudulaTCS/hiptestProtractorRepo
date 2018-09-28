@@ -1,0 +1,9 @@
+---
+- name: step to launch the application in browser
+  uid: 3bf703eb-3735-425c-bd75-70e919b0f1df
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: I should see the app logo
+  uid: 49ef103f-3162-481f-92de-e50013f82455
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e

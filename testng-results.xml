@@ -1,0 +1,2216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="16" passed="16">
+  <reporter-output>
+    <line>
+      <![CDATA[▀▄▀▄▀ DEVICE PROPERTIES: Capabilities [{reportPdfUrl=https://bttv.reporting.perfectomobile.com/export/api/v1/test-executions/pdf?externalId[0]=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp[0]=1533823108568, deviceName=C974E634581B4E51C9D7AB6672EF0962C923AEEE, fullReset=true, platform=IOS, password=, deviceSessionId=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891, driverClass=io.appium.java_client.ios.IOSDriver, automationName=Appium, host=bttv.perfectomobile.com, singleTestReportUrl=https://bttv.reporting.perfectomobile.com/library?externalId[0]=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp[0]=1533823108568, takesScreenshot=true, javascriptEnabled=true, platformName=IOS, applicationName=Calculator, rotatable=true, testGridReportUrl=https://bttv.reporting.perfectomobile.com/library?externalId[0]=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp[0]=1533823108568, entityType=remote_web_driver, serverConnector=, securityToken=, executionId=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891, webdriver.remote.sessionid=13c7e82c-22df-4f8f-ba32-0e0edc639064, locationContextEnabled=true, scriptName=RemoteWebDriver, reportKey=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891, windTunnelReportUrl=https://bttv.reporting.perfectomobile.com/library?externalId[0]=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp[0]=1533823108568, user=, cssSelectorsEnabled=true}] ▀▄▀▄▀]]>
+    </line>
+    <line>
+      <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+    </line>
+    <line>
+      <![CDATA[█ TEST STARTED: Verify whether Help Text displays in the Side Menu in Portrait mode █]]>
+    </line>
+    <line>
+      <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+    </line>
+    <line>
+      <![CDATA[▄ ▄ ▄ BEGIN STEP: Given I open BTTV App as a fresh install ▄ ▄ ▄]]>
+    </line>
+    <line>
+      <![CDATA[▀ ▀ ▀ END STEP: Given I open BTTV App as a fresh install ▀ ▀ ▀]]>
+    </line>
+    <line>
+      <![CDATA[▄ ▄ ▄ BEGIN STEP: Then I rotate the device to portrait ▄ ▄ ▄]]>
+    </line>
+    <line>
+      <![CDATA[▀ ▀ ▀ END STEP: Then I rotate the device to portrait ▀ ▀ ▀]]>
+    </line>
+    <line>
+      <![CDATA[▄ ▄ ▄ BEGIN STEP: Then I click on "hamburger.button" ▄ ▄ ▄]]>
+    </line>
+    <line>
+      <![CDATA[▀ ▀ ▀ END STEP: Then I click on "hamburger.button" ▀ ▀ ▀]]>
+    </line>
+    <line>
+      <![CDATA[▄ ▄ ▄ BEGIN STEP: Then "help.text" should exist ▄ ▄ ▄]]>
+    </line>
+    <line>
+      <![CDATA[▀ ▀ ▀ END STEP: Then "help.text" should exist ▀ ▀ ▀]]>
+    </line>
+    <line>
+      <![CDATA[▀▄▀▄▀ REPORTIUM URL: https://bttv.reporting.perfectomobile.com/library?externalId%5B0%5D=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp%5B0%5D=1533823108568 ▀▄▀▄▀]]>
+    </line>
+    <line>
+      <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+    </line>
+    <line>
+      <![CDATA[█ TEST PASSED: Verify whether Help Text displays in the Side Menu in Portrait mode █]]>
+    </line>
+    <line>
+      <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+    </line>
+    <line>
+      <![CDATA[<div style="display:block;margin-left:10px;"><div  class="teststeppass"><span class="teststeppass-label">T </span>Given I open BTTV App as a fresh install</div><div  class="teststeppass"><span class="teststeppass-label">T </span>Then I rotate the device to portrait</div><div  class="teststeppass"><span class="teststeppass-label">T </span>Then I click on "hamburger.button"</div><div  class="teststeppass"><span class="teststeppass-label">T </span>Then "help.text" should exist</div><div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>Expected By.xpath: //*[@label="Help"] present : Actual By.xpath: //*[@label="Help"] present</div></div></div>]]>
+    </line>
+    <line>
+      <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+    </line>
+    <line>
+      <![CDATA[█ TEST STARTED: Verify whether Help Text displays in the Side Menu in Landscape mode █]]>
+    </line>
+    <line>
+      <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+    </line>
+    <line>
+      <![CDATA[▄ ▄ ▄ BEGIN STEP: Given I rotate the device to Landscape depending on device type ▄ ▄ ▄]]>
+    </line>
+    <line>
+      <![CDATA[▀ ▀ ▀ END STEP: Given I rotate the device to Landscape depending on device type ▀ ▀ ▀]]>
+    </line>
+    <line>
+      <![CDATA[▄ ▄ ▄ BEGIN STEP: Then "help.text" should exist ▄ ▄ ▄]]>
+    </line>
+    <line>
+      <![CDATA[▀ ▀ ▀ END STEP: Then "help.text" should exist ▀ ▀ ▀]]>
+    </line>
+    <line>
+      <![CDATA[▀▄▀▄▀ REPORTIUM URL: https://bttv.reporting.perfectomobile.com/library?externalId%5B0%5D=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp%5B0%5D=1533823108568 ▀▄▀▄▀]]>
+    </line>
+    <line>
+      <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+    </line>
+    <line>
+      <![CDATA[█ TEST PASSED: Verify whether Help Text displays in the Side Menu in Landscape mode █]]>
+    </line>
+    <line>
+      <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+    </line>
+    <line>
+      <![CDATA[<div style="display:block;margin-left:10px;"><div  class="teststeppass"><span class="teststeppass-label">T </span>Given I rotate the device to Landscape depending on device type</div><div  class="teststeppass"><span class="teststeppass-label">T </span>Then "help.text" should exist</div><div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>Expected By.xpath: //*[@label="Help"] present : Actual By.xpath: //*[@label="Help"] present</div></div></div>]]>
+    </line>
+    <line>
+      <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+    </line>
+    <line>
+      <![CDATA[█ TEST STARTED: Verify whether Help Image for Help Text displays in the Side Menu in Landscape mode █]]>
+    </line>
+    <line>
+      <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+    </line>
+    <line>
+      <![CDATA[▄ ▄ ▄ BEGIN STEP: Given I rotate the device to portrait ▄ ▄ ▄]]>
+    </line>
+    <line>
+      <![CDATA[▀ ▀ ▀ END STEP: Given I rotate the device to portrait ▀ ▀ ▀]]>
+    </line>
+    <line>
+      <![CDATA[▄ ▄ ▄ BEGIN STEP: Then "help.image" should exist ▄ ▄ ▄]]>
+    </line>
+    <line>
+      <![CDATA[▀ ▀ ▀ END STEP: Then "help.image" should exist ▀ ▀ ▀]]>
+    </line>
+    <line>
+      <![CDATA[▀▄▀▄▀ REPORTIUM URL: https://bttv.reporting.perfectomobile.com/library?externalId%5B0%5D=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp%5B0%5D=1533823108568 ▀▄▀▄▀]]>
+    </line>
+    <line>
+      <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+    </line>
+    <line>
+      <![CDATA[█ TEST PASSED: Verify whether Help Image for Help Text displays in the Side Menu in Landscape mode █]]>
+    </line>
+    <line>
+      <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+    </line>
+    <line>
+      <![CDATA[<div style="display:block;margin-left:10px;"><div  class="teststeppass"><span class="teststeppass-label">T </span>Given I rotate the device to portrait</div><div  class="teststeppass"><span class="teststeppass-label">T </span>Then "help.image" should exist</div><div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>Expected By.xpath: //UIATableCell[2]/UIAStaticText[1] present : Actual By.xpath: //UIATableCell[2]/UIAStaticText[1] present</div></div></div>]]>
+    </line>
+    <line>
+      <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+    </line>
+    <line>
+      <![CDATA[█ TEST STARTED: Verify whether Help Image for Help Text displays in the Side Menu in Portrait mode █]]>
+    </line>
+    <line>
+      <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+    </line>
+    <line>
+      <![CDATA[▄ ▄ ▄ BEGIN STEP: Given I rotate the device to Landscape depending on device type ▄ ▄ ▄]]>
+    </line>
+    <line>
+      <![CDATA[▀ ▀ ▀ END STEP: Given I rotate the device to Landscape depending on device type ▀ ▀ ▀]]>
+    </line>
+    <line>
+      <![CDATA[▄ ▄ ▄ BEGIN STEP: Then "help.image" should exist ▄ ▄ ▄]]>
+    </line>
+    <line>
+      <![CDATA[▀ ▀ ▀ END STEP: Then "help.image" should exist ▀ ▀ ▀]]>
+    </line>
+    <line>
+      <![CDATA[▀▄▀▄▀ REPORTIUM URL: https://bttv.reporting.perfectomobile.com/library?externalId%5B0%5D=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp%5B0%5D=1533823108568 ▀▄▀▄▀]]>
+    </line>
+    <line>
+      <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+    </line>
+    <line>
+      <![CDATA[█ TEST PASSED: Verify whether Help Image for Help Text displays in the Side Menu in Portrait mode █]]>
+    </line>
+    <line>
+      <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+    </line>
+    <line>
+      <![CDATA[<div style="display:block;margin-left:10px;"><div  class="teststeppass"><span class="teststeppass-label">T </span>Given I rotate the device to Landscape depending on device type</div><div  class="teststeppass"><span class="teststeppass-label">T </span>Then "help.image" should exist</div><div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>Expected By.xpath: //UIATableCell[2]/UIAStaticText[1] present : Actual By.xpath: //UIATableCell[2]/UIAStaticText[1] present</div></div></div>]]>
+    </line>
+    <line>
+      <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+    </line>
+    <line>
+      <![CDATA[█ TEST STARTED: Verify whether Other Apps Text displays in the Side Menu in Portrait mode █]]>
+    </line>
+    <line>
+      <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+    </line>
+    <line>
+      <![CDATA[▄ ▄ ▄ BEGIN STEP: Given I rotate the device to portrait ▄ ▄ ▄]]>
+    </line>
+    <line>
+      <![CDATA[▀ ▀ ▀ END STEP: Given I rotate the device to portrait ▀ ▀ ▀]]>
+    </line>
+    <line>
+      <![CDATA[▄ ▄ ▄ BEGIN STEP: Then "otherApps.text" should exist ▄ ▄ ▄]]>
+    </line>
+    <line>
+      <![CDATA[▀ ▀ ▀ END STEP: Then "otherApps.text" should exist ▀ ▀ ▀]]>
+    </line>
+    <line>
+      <![CDATA[▀▄▀▄▀ REPORTIUM URL: https://bttv.reporting.perfectomobile.com/library?externalId%5B0%5D=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp%5B0%5D=1533823108568 ▀▄▀▄▀]]>
+    </line>
+    <line>
+      <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+    </line>
+    <line>
+      <![CDATA[█ TEST PASSED: Verify whether Other Apps Text displays in the Side Menu in Portrait mode █]]>
+    </line>
+    <line>
+      <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+    </line>
+    <line>
+      <![CDATA[<div style="display:block;margin-left:10px;"><div  class="teststeppass"><span class="teststeppass-label">T </span>Given I rotate the device to portrait</div><div  class="teststeppass"><span class="teststeppass-label">T </span>Then "otherApps.text" should exist</div><div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>Expected By.xpath: //*[@label="Other apps from BT"] present : Actual By.xpath: //*[@label="Other apps from BT"] present</div></div></div>]]>
+    </line>
+    <line>
+      <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+    </line>
+    <line>
+      <![CDATA[█ TEST STARTED: Verify whether Other Apps Text displays in the Side Menu in Portrait mode █]]>
+    </line>
+    <line>
+      <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+    </line>
+    <line>
+      <![CDATA[▄ ▄ ▄ BEGIN STEP: Given I rotate the device to Landscape depending on device type ▄ ▄ ▄]]>
+    </line>
+    <line>
+      <![CDATA[▀ ▀ ▀ END STEP: Given I rotate the device to Landscape depending on device type ▀ ▀ ▀]]>
+    </line>
+    <line>
+      <![CDATA[▄ ▄ ▄ BEGIN STEP: Then "otherApps.text" should exist ▄ ▄ ▄]]>
+    </line>
+    <line>
+      <![CDATA[▀ ▀ ▀ END STEP: Then "otherApps.text" should exist ▀ ▀ ▀]]>
+    </line>
+    <line>
+      <![CDATA[▀▄▀▄▀ REPORTIUM URL: https://bttv.reporting.perfectomobile.com/library?externalId%5B0%5D=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp%5B0%5D=1533823108568 ▀▄▀▄▀]]>
+    </line>
+    <line>
+      <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+    </line>
+    <line>
+      <![CDATA[█ TEST PASSED: Verify whether Other Apps Text displays in the Side Menu in Portrait mode █]]>
+    </line>
+    <line>
+      <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+    </line>
+    <line>
+      <![CDATA[<div style="display:block;margin-left:10px;"><div  class="teststeppass"><span class="teststeppass-label">T </span>Given I rotate the device to Landscape depending on device type</div><div  class="teststeppass"><span class="teststeppass-label">T </span>Then "otherApps.text" should exist</div><div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>Expected By.xpath: //*[@label="Other apps from BT"] present : Actual By.xpath: //*[@label="Other apps from BT"] present</div></div></div>]]>
+    </line>
+    <line>
+      <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+    </line>
+    <line>
+      <![CDATA[█ TEST STARTED: Verify whether Other Icon for Other Apps text displays in the Side Menu in Portrait mode █]]>
+    </line>
+    <line>
+      <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+    </line>
+    <line>
+      <![CDATA[▄ ▄ ▄ BEGIN STEP: Given I rotate the device to portrait ▄ ▄ ▄]]>
+    </line>
+    <line>
+      <![CDATA[▀ ▀ ▀ END STEP: Given I rotate the device to portrait ▀ ▀ ▀]]>
+    </line>
+    <line>
+      <![CDATA[▄ ▄ ▄ BEGIN STEP: Then "otherApps.image" should exist ▄ ▄ ▄]]>
+    </line>
+    <line>
+      <![CDATA[▀ ▀ ▀ END STEP: Then "otherApps.image" should exist ▀ ▀ ▀]]>
+    </line>
+    <line>
+      <![CDATA[▀▄▀▄▀ REPORTIUM URL: https://bttv.reporting.perfectomobile.com/library?externalId%5B0%5D=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp%5B0%5D=1533823108568 ▀▄▀▄▀]]>
+    </line>
+    <line>
+      <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+    </line>
+    <line>
+      <![CDATA[█ TEST PASSED: Verify whether Other Icon for Other Apps text displays in the Side Menu in Portrait mode █]]>
+    </line>
+    <line>
+      <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+    </line>
+    <line>
+      <![CDATA[<div style="display:block;margin-left:10px;"><div  class="teststeppass"><span class="teststeppass-label">T </span>Given I rotate the device to portrait</div><div  class="teststeppass"><span class="teststeppass-label">T </span>Then "otherApps.image" should exist</div><div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>Expected By.xpath: //UIATableCell[3]/UIAStaticText[1] present : Actual By.xpath: //UIATableCell[3]/UIAStaticText[1] present</div></div></div>]]>
+    </line>
+    <line>
+      <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+    </line>
+    <line>
+      <![CDATA[█ TEST STARTED: Verify whether Other Icon for Other Apps text displays in the Side Menu in Portrait mode █]]>
+    </line>
+    <line>
+      <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+    </line>
+    <line>
+      <![CDATA[▄ ▄ ▄ BEGIN STEP: Given I rotate the device to Landscape depending on device type ▄ ▄ ▄]]>
+    </line>
+    <line>
+      <![CDATA[▀ ▀ ▀ END STEP: Given I rotate the device to Landscape depending on device type ▀ ▀ ▀]]>
+    </line>
+    <line>
+      <![CDATA[▄ ▄ ▄ BEGIN STEP: Then "otherApps.image" should exist ▄ ▄ ▄]]>
+    </line>
+    <line>
+      <![CDATA[▀ ▀ ▀ END STEP: Then "otherApps.image" should exist ▀ ▀ ▀]]>
+    </line>
+    <line>
+      <![CDATA[▀▄▀▄▀ REPORTIUM URL: https://bttv.reporting.perfectomobile.com/library?externalId%5B0%5D=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp%5B0%5D=1533823108568 ▀▄▀▄▀]]>
+    </line>
+    <line>
+      <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+    </line>
+    <line>
+      <![CDATA[█ TEST PASSED: Verify whether Other Icon for Other Apps text displays in the Side Menu in Portrait mode █]]>
+    </line>
+    <line>
+      <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+    </line>
+    <line>
+      <![CDATA[<div style="display:block;margin-left:10px;"><div  class="teststeppass"><span class="teststeppass-label">T </span>Given I rotate the device to Landscape depending on device type</div><div  class="teststeppass"><span class="teststeppass-label">T </span>Then "otherApps.image" should exist</div><div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>Expected By.xpath: //UIATableCell[3]/UIAStaticText[1] present : Actual By.xpath: //UIATableCell[3]/UIAStaticText[1] present</div></div></div>]]>
+    </line>
+    <line>
+      <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+    </line>
+    <line>
+      <![CDATA[█ TEST STARTED: Verify whether the clicking on Help takes the user to the Help Page in portrait mode █]]>
+    </line>
+    <line>
+      <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+    </line>
+    <line>
+      <![CDATA[▄ ▄ ▄ BEGIN STEP: Given I rotate the device to portrait ▄ ▄ ▄]]>
+    </line>
+    <line>
+      <![CDATA[▀ ▀ ▀ END STEP: Given I rotate the device to portrait ▀ ▀ ▀]]>
+    </line>
+    <line>
+      <![CDATA[▄ ▄ ▄ BEGIN STEP: Then I should click "help.text" verify the webview text as "help.web" ▄ ▄ ▄]]>
+    </line>
+    <line>
+      <![CDATA[▀ ▀ ▀ END STEP: Then I should click "help.text" verify the webview text as "help.web" ▀ ▀ ▀]]>
+    </line>
+    <line>
+      <![CDATA[▀▄▀▄▀ REPORTIUM URL: https://bttv.reporting.perfectomobile.com/library?externalId%5B0%5D=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp%5B0%5D=1533823108568 ▀▄▀▄▀]]>
+    </line>
+    <line>
+      <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+    </line>
+    <line>
+      <![CDATA[█ TEST PASSED: Verify whether the clicking on Help takes the user to the Help Page in portrait mode █]]>
+    </line>
+    <line>
+      <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+    </line>
+    <line>
+      <![CDATA[<div style="display:block;margin-left:10px;"><div  class="teststeppass"><span class="teststeppass-label">T </span>Given I rotate the device to portrait</div><div  class="teststeppass"><span class="teststeppass-label">T </span>Then I should click "help.text" verify the webview text as "help.web"</div><div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>Expected By.xpath: //h1[text()="BT TV App help"] visible : Actual By.xpath: //h1[text()="BT TV App help"] visible</div></div></div>]]>
+    </line>
+    <line>
+      <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+    </line>
+    <line>
+      <![CDATA[█ TEST STARTED: Verify that the closing the Help Webview takes the user to the App in portrait mode █]]>
+    </line>
+    <line>
+      <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+    </line>
+    <line>
+      <![CDATA[▄ ▄ ▄ BEGIN STEP: Given I rotate the device to portrait ▄ ▄ ▄]]>
+    </line>
+    <line>
+      <![CDATA[▀ ▀ ▀ END STEP: Given I rotate the device to portrait ▀ ▀ ▀]]>
+    </line>
+    <line>
+      <![CDATA[▄ ▄ ▄ BEGIN STEP: Then I should come back to app from webview by clicking "help.close" for "Help" ▄ ▄ ▄]]>
+    </line>
+    <line>
+      <![CDATA[▀ ▀ ▀ END STEP: Then I should come back to app from webview by clicking "help.close" for "Help" ▀ ▀ ▀]]>
+    </line>
+    <line>
+      <![CDATA[▀▄▀▄▀ REPORTIUM URL: https://bttv.reporting.perfectomobile.com/library?externalId%5B0%5D=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp%5B0%5D=1533823108568 ▀▄▀▄▀]]>
+    </line>
+    <line>
+      <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+    </line>
+    <line>
+      <![CDATA[█ TEST PASSED: Verify that the closing the Help Webview takes the user to the App in portrait mode █]]>
+    </line>
+    <line>
+      <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+    </line>
+    <line>
+      <![CDATA[<div style="display:block;margin-left:10px;"><div  class="teststeppass"><span class="teststeppass-label">T </span>Given I rotate the device to portrait</div><div  class="teststeppass"><span class="teststeppass-label">T </span>Then I should come back to app from webview by clicking "help.close" for "Help"</div><div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>Expected By.xpath: //*[@label="Help"] visible : Actual By.xpath: //*[@label="Help"] visible</div></div></div>]]>
+    </line>
+    <line>
+      <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+    </line>
+    <line>
+      <![CDATA[█ TEST STARTED: Verify whether the clicking on Help takes the user to the Help Page in portrait mode █]]>
+    </line>
+    <line>
+      <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+    </line>
+    <line>
+      <![CDATA[▄ ▄ ▄ BEGIN STEP: Given I rotate the device to Landscape depending on device type ▄ ▄ ▄]]>
+    </line>
+    <line>
+      <![CDATA[▀ ▀ ▀ END STEP: Given I rotate the device to Landscape depending on device type ▀ ▀ ▀]]>
+    </line>
+    <line>
+      <![CDATA[▄ ▄ ▄ BEGIN STEP: Then I should click "help.text" verify the webview text as "help.web" ▄ ▄ ▄]]>
+    </line>
+    <line>
+      <![CDATA[▀ ▀ ▀ END STEP: Then I should click "help.text" verify the webview text as "help.web" ▀ ▀ ▀]]>
+    </line>
+    <line>
+      <![CDATA[▀▄▀▄▀ REPORTIUM URL: https://bttv.reporting.perfectomobile.com/library?externalId%5B0%5D=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp%5B0%5D=1533823108568 ▀▄▀▄▀]]>
+    </line>
+    <line>
+      <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+    </line>
+    <line>
+      <![CDATA[█ TEST PASSED: Verify whether the clicking on Help takes the user to the Help Page in portrait mode █]]>
+    </line>
+    <line>
+      <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+    </line>
+    <line>
+      <![CDATA[<div style="display:block;margin-left:10px;"><div  class="teststeppass"><span class="teststeppass-label">T </span>Given I rotate the device to Landscape depending on device type</div><div  class="teststeppass"><span class="teststeppass-label">T </span>Then I should click "help.text" verify the webview text as "help.web"</div><div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>Expected By.xpath: //h1[text()="BT TV App help"] visible : Actual By.xpath: //h1[text()="BT TV App help"] visible</div></div></div>]]>
+    </line>
+    <line>
+      <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+    </line>
+    <line>
+      <![CDATA[█ TEST STARTED: Verify that the closing the Help Webview takes the user to the App in portrait mode █]]>
+    </line>
+    <line>
+      <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+    </line>
+    <line>
+      <![CDATA[▄ ▄ ▄ BEGIN STEP: Given I rotate the device to Landscape depending on device type ▄ ▄ ▄]]>
+    </line>
+    <line>
+      <![CDATA[▀ ▀ ▀ END STEP: Given I rotate the device to Landscape depending on device type ▀ ▀ ▀]]>
+    </line>
+    <line>
+      <![CDATA[▄ ▄ ▄ BEGIN STEP: Then I should come back to app from webview by clicking "help.close" for "Help" ▄ ▄ ▄]]>
+    </line>
+    <line>
+      <![CDATA[▀ ▀ ▀ END STEP: Then I should come back to app from webview by clicking "help.close" for "Help" ▀ ▀ ▀]]>
+    </line>
+    <line>
+      <![CDATA[▀▄▀▄▀ REPORTIUM URL: https://bttv.reporting.perfectomobile.com/library?externalId%5B0%5D=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp%5B0%5D=1533823108568 ▀▄▀▄▀]]>
+    </line>
+    <line>
+      <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+    </line>
+    <line>
+      <![CDATA[█ TEST PASSED: Verify that the closing the Help Webview takes the user to the App in portrait mode █]]>
+    </line>
+    <line>
+      <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+    </line>
+    <line>
+      <![CDATA[<div style="display:block;margin-left:10px;"><div  class="teststeppass"><span class="teststeppass-label">T </span>Given I rotate the device to Landscape depending on device type</div><div  class="teststeppass"><span class="teststeppass-label">T </span>Then I should come back to app from webview by clicking "help.close" for "Help"</div><div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>Expected By.xpath: //*[@label="Help"] visible : Actual By.xpath: //*[@label="Help"] visible</div></div></div>]]>
+    </line>
+    <line>
+      <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+    </line>
+    <line>
+      <![CDATA[█ TEST STARTED: Verify whether the clicking on Help takes the user to the Help Page in portrait mode █]]>
+    </line>
+    <line>
+      <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+    </line>
+    <line>
+      <![CDATA[▄ ▄ ▄ BEGIN STEP: Given I rotate the device to portrait ▄ ▄ ▄]]>
+    </line>
+    <line>
+      <![CDATA[▀ ▀ ▀ END STEP: Given I rotate the device to portrait ▀ ▀ ▀]]>
+    </line>
+    <line>
+      <![CDATA[▄ ▄ ▄ BEGIN STEP: Then I should click "otherApps.text" verify the webview text as "help.web" ▄ ▄ ▄]]>
+    </line>
+    <line>
+      <![CDATA[▀ ▀ ▀ END STEP: Then I should click "otherApps.text" verify the webview text as "help.web" ▀ ▀ ▀]]>
+    </line>
+    <line>
+      <![CDATA[▀▄▀▄▀ REPORTIUM URL: https://bttv.reporting.perfectomobile.com/library?externalId%5B0%5D=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp%5B0%5D=1533823108568 ▀▄▀▄▀]]>
+    </line>
+    <line>
+      <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+    </line>
+    <line>
+      <![CDATA[█ TEST PASSED: Verify whether the clicking on Help takes the user to the Help Page in portrait mode █]]>
+    </line>
+    <line>
+      <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+    </line>
+    <line>
+      <![CDATA[<div style="display:block;margin-left:10px;"><div  class="teststeppass"><span class="teststeppass-label">T </span>Given I rotate the device to portrait</div><div  class="teststeppass"><span class="teststeppass-label">T </span>Then I should click "otherApps.text" verify the webview text as "help.web"</div><div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>Expected By.xpath: //html[1]/body[1]/div[position()>=1]/div[1]/a[1]/div[1] visible : Actual By.xpath: //html[1]/body[1]/div[position()>=1]/div[1]/a[1]/div[1] visible</div></div></div>]]>
+    </line>
+    <line>
+      <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+    </line>
+    <line>
+      <![CDATA[█ TEST STARTED: Verify that the closing the Help Webview takes the user to the App in portrait mode █]]>
+    </line>
+    <line>
+      <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+    </line>
+    <line>
+      <![CDATA[▄ ▄ ▄ BEGIN STEP: Given I rotate the device to portrait ▄ ▄ ▄]]>
+    </line>
+    <line>
+      <![CDATA[▀ ▀ ▀ END STEP: Given I rotate the device to portrait ▀ ▀ ▀]]>
+    </line>
+    <line>
+      <![CDATA[▄ ▄ ▄ BEGIN STEP: Then I should come back to app from webview by clicking "help.close" for "Other Apps" ▄ ▄ ▄]]>
+    </line>
+    <line>
+      <![CDATA[▀ ▀ ▀ END STEP: Then I should come back to app from webview by clicking "help.close" for "Other Apps" ▀ ▀ ▀]]>
+    </line>
+    <line>
+      <![CDATA[▀▄▀▄▀ REPORTIUM URL: https://bttv.reporting.perfectomobile.com/library?externalId%5B0%5D=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp%5B0%5D=1533823108568 ▀▄▀▄▀]]>
+    </line>
+    <line>
+      <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+    </line>
+    <line>
+      <![CDATA[█ TEST PASSED: Verify that the closing the Help Webview takes the user to the App in portrait mode █]]>
+    </line>
+    <line>
+      <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+    </line>
+    <line>
+      <![CDATA[<div style="display:block;margin-left:10px;"><div  class="teststeppass"><span class="teststeppass-label">T </span>Given I rotate the device to portrait</div><div  class="teststeppass"><span class="teststeppass-label">T </span>Then I should come back to app from webview by clicking "help.close" for "Other Apps"</div><div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>Expected By.xpath: //*[@label="Help"] visible : Actual By.xpath: //*[@label="Help"] visible</div></div></div>]]>
+    </line>
+    <line>
+      <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+    </line>
+    <line>
+      <![CDATA[█ TEST STARTED: Verify whether the clicking on Help takes the user to the Help Page in portrait mode █]]>
+    </line>
+    <line>
+      <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+    </line>
+    <line>
+      <![CDATA[▄ ▄ ▄ BEGIN STEP: Given I rotate the device to Landscape depending on device type ▄ ▄ ▄]]>
+    </line>
+    <line>
+      <![CDATA[▀ ▀ ▀ END STEP: Given I rotate the device to Landscape depending on device type ▀ ▀ ▀]]>
+    </line>
+    <line>
+      <![CDATA[▄ ▄ ▄ BEGIN STEP: Then I should click "otherApps.text" verify the webview text as "help.web" ▄ ▄ ▄]]>
+    </line>
+    <line>
+      <![CDATA[▀ ▀ ▀ END STEP: Then I should click "otherApps.text" verify the webview text as "help.web" ▀ ▀ ▀]]>
+    </line>
+    <line>
+      <![CDATA[▀▄▀▄▀ REPORTIUM URL: https://bttv.reporting.perfectomobile.com/library?externalId%5B0%5D=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp%5B0%5D=1533823108568 ▀▄▀▄▀]]>
+    </line>
+    <line>
+      <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+    </line>
+    <line>
+      <![CDATA[█ TEST PASSED: Verify whether the clicking on Help takes the user to the Help Page in portrait mode █]]>
+    </line>
+    <line>
+      <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+    </line>
+    <line>
+      <![CDATA[<div style="display:block;margin-left:10px;"><div  class="teststeppass"><span class="teststeppass-label">T </span>Given I rotate the device to Landscape depending on device type</div><div  class="teststeppass"><span class="teststeppass-label">T </span>Then I should click "otherApps.text" verify the webview text as "help.web"</div><div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>Expected By.xpath: //html[1]/body[1]/div[position()>=1]/div[1]/a[1]/div[1] visible : Actual By.xpath: //html[1]/body[1]/div[position()>=1]/div[1]/a[1]/div[1] visible</div></div></div>]]>
+    </line>
+    <line>
+      <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+    </line>
+    <line>
+      <![CDATA[█ TEST STARTED: Verify that the closing the Help Webview takes the user to the App in portrait mode █]]>
+    </line>
+    <line>
+      <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+    </line>
+    <line>
+      <![CDATA[▄ ▄ ▄ BEGIN STEP: Given I rotate the device to Landscape depending on device type ▄ ▄ ▄]]>
+    </line>
+    <line>
+      <![CDATA[▀ ▀ ▀ END STEP: Given I rotate the device to Landscape depending on device type ▀ ▀ ▀]]>
+    </line>
+    <line>
+      <![CDATA[▄ ▄ ▄ BEGIN STEP: Then I should come back to app from webview by clicking "help.close" for "Other Apps" ▄ ▄ ▄]]>
+    </line>
+    <line>
+      <![CDATA[▀ ▀ ▀ END STEP: Then I should come back to app from webview by clicking "help.close" for "Other Apps" ▀ ▀ ▀]]>
+    </line>
+    <line>
+      <![CDATA[▀▄▀▄▀ REPORTIUM URL: https://bttv.reporting.perfectomobile.com/library?externalId%5B0%5D=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp%5B0%5D=1533823108568 ▀▄▀▄▀]]>
+    </line>
+    <line>
+      <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+    </line>
+    <line>
+      <![CDATA[█ TEST PASSED: Verify that the closing the Help Webview takes the user to the App in portrait mode █]]>
+    </line>
+    <line>
+      <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+    </line>
+    <line>
+      <![CDATA[<div style="display:block;margin-left:10px;"><div  class="teststeppass"><span class="teststeppass-label">T </span>Given I rotate the device to Landscape depending on device type</div><div  class="teststeppass"><span class="teststeppass-label">T </span>Then I should come back to app from webview by clicking "help.close" for "Other Apps"</div><div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>Expected By.xpath: //*[@label="Help"] visible : Actual By.xpath: //*[@label="Help"] visible</div></div></div>]]>
+    </line>
+  </reporter-output>
+  <suite name="BTTV NextGen Tests" duration-ms="225132" started-at="2018-08-09T13:58:29Z" finished-at="2018-08-09T14:02:14Z">
+    <groups>
+      <group name="@otherApps1">
+        <method signature="src.main.resources.scenarios.otherApps.feature.Verify whether Help Text displays in the Side Menu in Portrait mode()[pri:1000, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]" name="Verify whether Help Text displays in the Side Menu in Portrait mode" class="com.qmetry.qaf.automation.step.client.Scenario"/>
+      </group> <!-- @otherApps1 -->
+      <group name="@otherApps13">
+        <method signature="src.main.resources.scenarios.otherApps.feature.Verify that the closing the Help Webview takes the user to the App in portrait mode()[pri:1013, instance:com.qmetry.qaf.automation.step.client.Scenario@3f5]" name="Verify that the closing the Help Webview takes the user to the App in portrait mode" class="com.qmetry.qaf.automation.step.client.Scenario"/>
+        <method signature="src.main.resources.scenarios.otherApps.feature.Verify that the closing the Help Webview takes the user to the App in portrait mode()[pri:1015, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" name="Verify that the closing the Help Webview takes the user to the App in portrait mode" class="com.qmetry.qaf.automation.step.client.Scenario"/>
+      </group> <!-- @otherApps13 -->
+      <group name="@otherApps11">
+        <method signature="src.main.resources.scenarios.otherApps.feature.Verify whether the clicking on Help takes the user to the Help Page in portrait mode()[pri:1012, instance:com.qmetry.qaf.automation.step.client.Scenario@3f4]" name="Verify whether the clicking on Help takes the user to the Help Page in portrait mode" class="com.qmetry.qaf.automation.step.client.Scenario"/>
+      </group> <!-- @otherApps11 -->
+      <group name="@otherApps12">
+        <method signature="src.main.resources.scenarios.otherApps.feature.Verify whether the clicking on Help takes the user to the Help Page in portrait mode()[pri:1014, instance:com.qmetry.qaf.automation.step.client.Scenario@3f6]" name="Verify whether the clicking on Help takes the user to the Help Page in portrait mode" class="com.qmetry.qaf.automation.step.client.Scenario"/>
+      </group> <!-- @otherApps12 -->
+      <group name="@otherApps10">
+        <method signature="src.main.resources.scenarios.otherApps.feature.Verify that the closing the Help Webview takes the user to the App in portrait mode()[pri:1009, instance:com.qmetry.qaf.automation.step.client.Scenario@3f1]" name="Verify that the closing the Help Webview takes the user to the App in portrait mode" class="com.qmetry.qaf.automation.step.client.Scenario"/>
+        <method signature="src.main.resources.scenarios.otherApps.feature.Verify that the closing the Help Webview takes the user to the App in portrait mode()[pri:1011, instance:com.qmetry.qaf.automation.step.client.Scenario@3f3]" name="Verify that the closing the Help Webview takes the user to the App in portrait mode" class="com.qmetry.qaf.automation.step.client.Scenario"/>
+      </group> <!-- @otherApps10 -->
+      <group name="@otherApps9">
+        <method signature="src.main.resources.scenarios.otherApps.feature.Verify whether the clicking on Help takes the user to the Help Page in portrait mode()[pri:1010, instance:com.qmetry.qaf.automation.step.client.Scenario@3f2]" name="Verify whether the clicking on Help takes the user to the Help Page in portrait mode" class="com.qmetry.qaf.automation.step.client.Scenario"/>
+      </group> <!-- @otherApps9 -->
+      <group name="@otherApps8">
+        <method signature="src.main.resources.scenarios.otherApps.feature.Verify whether the clicking on Help takes the user to the Help Page in portrait mode()[pri:1008, instance:com.qmetry.qaf.automation.step.client.Scenario@3f0]" name="Verify whether the clicking on Help takes the user to the Help Page in portrait mode" class="com.qmetry.qaf.automation.step.client.Scenario"/>
+      </group> <!-- @otherApps8 -->
+      <group name="@otherApps7">
+        <method signature="src.main.resources.scenarios.otherApps.feature.Verify whether Other Icon for Other Apps text displays in the Side Menu in Portrait mode()[pri:1007, instance:com.qmetry.qaf.automation.step.client.Scenario@3ef]" name="Verify whether Other Icon for Other Apps text displays in the Side Menu in Portrait mode" class="com.qmetry.qaf.automation.step.client.Scenario"/>
+      </group> <!-- @otherApps7 -->
+      <group name="@otherApps6">
+        <method signature="src.main.resources.scenarios.otherApps.feature.Verify whether Other Icon for Other Apps text displays in the Side Menu in Portrait mode()[pri:1006, instance:com.qmetry.qaf.automation.step.client.Scenario@3ee]" name="Verify whether Other Icon for Other Apps text displays in the Side Menu in Portrait mode" class="com.qmetry.qaf.automation.step.client.Scenario"/>
+      </group> <!-- @otherApps6 -->
+      <group name="@otherApps5">
+        <method signature="src.main.resources.scenarios.otherApps.feature.Verify whether Other Apps Text displays in the Side Menu in Portrait mode()[pri:1005, instance:com.qmetry.qaf.automation.step.client.Scenario@3ed]" name="Verify whether Other Apps Text displays in the Side Menu in Portrait mode" class="com.qmetry.qaf.automation.step.client.Scenario"/>
+      </group> <!-- @otherApps5 -->
+      <group name="@otherApps">
+        <method signature="src.main.resources.scenarios.otherApps.feature.Verify that the closing the Help Webview takes the user to the App in portrait mode()[pri:1009, instance:com.qmetry.qaf.automation.step.client.Scenario@3f1]" name="Verify that the closing the Help Webview takes the user to the App in portrait mode" class="com.qmetry.qaf.automation.step.client.Scenario"/>
+        <method signature="src.main.resources.scenarios.otherApps.feature.Verify that the closing the Help Webview takes the user to the App in portrait mode()[pri:1011, instance:com.qmetry.qaf.automation.step.client.Scenario@3f3]" name="Verify that the closing the Help Webview takes the user to the App in portrait mode" class="com.qmetry.qaf.automation.step.client.Scenario"/>
+        <method signature="src.main.resources.scenarios.otherApps.feature.Verify that the closing the Help Webview takes the user to the App in portrait mode()[pri:1013, instance:com.qmetry.qaf.automation.step.client.Scenario@3f5]" name="Verify that the closing the Help Webview takes the user to the App in portrait mode" class="com.qmetry.qaf.automation.step.client.Scenario"/>
+        <method signature="src.main.resources.scenarios.otherApps.feature.Verify that the closing the Help Webview takes the user to the App in portrait mode()[pri:1015, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" name="Verify that the closing the Help Webview takes the user to the App in portrait mode" class="com.qmetry.qaf.automation.step.client.Scenario"/>
+        <method signature="src.main.resources.scenarios.otherApps.feature.Verify whether Help Image for Help Text displays in the Side Menu in Landscape mode()[pri:1002, instance:com.qmetry.qaf.automation.step.client.Scenario@3ea]" name="Verify whether Help Image for Help Text displays in the Side Menu in Landscape mode" class="com.qmetry.qaf.automation.step.client.Scenario"/>
+        <method signature="src.main.resources.scenarios.otherApps.feature.Verify whether Help Image for Help Text displays in the Side Menu in Portrait mode()[pri:1003, instance:com.qmetry.qaf.automation.step.client.Scenario@3eb]" name="Verify whether Help Image for Help Text displays in the Side Menu in Portrait mode" class="com.qmetry.qaf.automation.step.client.Scenario"/>
+        <method signature="src.main.resources.scenarios.otherApps.feature.Verify whether Help Text displays in the Side Menu in Landscape mode()[pri:1001, instance:com.qmetry.qaf.automation.step.client.Scenario@3e9]" name="Verify whether Help Text displays in the Side Menu in Landscape mode" class="com.qmetry.qaf.automation.step.client.Scenario"/>
+        <method signature="src.main.resources.scenarios.otherApps.feature.Verify whether Help Text displays in the Side Menu in Portrait mode()[pri:1000, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]" name="Verify whether Help Text displays in the Side Menu in Portrait mode" class="com.qmetry.qaf.automation.step.client.Scenario"/>
+        <method signature="src.main.resources.scenarios.otherApps.feature.Verify whether Other Apps Text displays in the Side Menu in Portrait mode()[pri:1004, instance:com.qmetry.qaf.automation.step.client.Scenario@3ec]" name="Verify whether Other Apps Text displays in the Side Menu in Portrait mode" class="com.qmetry.qaf.automation.step.client.Scenario"/>
+        <method signature="src.main.resources.scenarios.otherApps.feature.Verify whether Other Apps Text displays in the Side Menu in Portrait mode()[pri:1005, instance:com.qmetry.qaf.automation.step.client.Scenario@3ed]" name="Verify whether Other Apps Text displays in the Side Menu in Portrait mode" class="com.qmetry.qaf.automation.step.client.Scenario"/>
+        <method signature="src.main.resources.scenarios.otherApps.feature.Verify whether Other Icon for Other Apps text displays in the Side Menu in Portrait mode()[pri:1006, instance:com.qmetry.qaf.automation.step.client.Scenario@3ee]" name="Verify whether Other Icon for Other Apps text displays in the Side Menu in Portrait mode" class="com.qmetry.qaf.automation.step.client.Scenario"/>
+        <method signature="src.main.resources.scenarios.otherApps.feature.Verify whether Other Icon for Other Apps text displays in the Side Menu in Portrait mode()[pri:1007, instance:com.qmetry.qaf.automation.step.client.Scenario@3ef]" name="Verify whether Other Icon for Other Apps text displays in the Side Menu in Portrait mode" class="com.qmetry.qaf.automation.step.client.Scenario"/>
+        <method signature="src.main.resources.scenarios.otherApps.feature.Verify whether the clicking on Help takes the user to the Help Page in portrait mode()[pri:1008, instance:com.qmetry.qaf.automation.step.client.Scenario@3f0]" name="Verify whether the clicking on Help takes the user to the Help Page in portrait mode" class="com.qmetry.qaf.automation.step.client.Scenario"/>
+        <method signature="src.main.resources.scenarios.otherApps.feature.Verify whether the clicking on Help takes the user to the Help Page in portrait mode()[pri:1010, instance:com.qmetry.qaf.automation.step.client.Scenario@3f2]" name="Verify whether the clicking on Help takes the user to the Help Page in portrait mode" class="com.qmetry.qaf.automation.step.client.Scenario"/>
+        <method signature="src.main.resources.scenarios.otherApps.feature.Verify whether the clicking on Help takes the user to the Help Page in portrait mode()[pri:1012, instance:com.qmetry.qaf.automation.step.client.Scenario@3f4]" name="Verify whether the clicking on Help takes the user to the Help Page in portrait mode" class="com.qmetry.qaf.automation.step.client.Scenario"/>
+        <method signature="src.main.resources.scenarios.otherApps.feature.Verify whether the clicking on Help takes the user to the Help Page in portrait mode()[pri:1014, instance:com.qmetry.qaf.automation.step.client.Scenario@3f6]" name="Verify whether the clicking on Help takes the user to the Help Page in portrait mode" class="com.qmetry.qaf.automation.step.client.Scenario"/>
+      </group> <!-- @otherApps -->
+      <group name="@otherApps4">
+        <method signature="src.main.resources.scenarios.otherApps.feature.Verify whether Other Apps Text displays in the Side Menu in Portrait mode()[pri:1004, instance:com.qmetry.qaf.automation.step.client.Scenario@3ec]" name="Verify whether Other Apps Text displays in the Side Menu in Portrait mode" class="com.qmetry.qaf.automation.step.client.Scenario"/>
+      </group> <!-- @otherApps4 -->
+      <group name="@otherApps3">
+        <method signature="src.main.resources.scenarios.otherApps.feature.Verify whether Help Image for Help Text displays in the Side Menu in Landscape mode()[pri:1002, instance:com.qmetry.qaf.automation.step.client.Scenario@3ea]" name="Verify whether Help Image for Help Text displays in the Side Menu in Landscape mode" class="com.qmetry.qaf.automation.step.client.Scenario"/>
+        <method signature="src.main.resources.scenarios.otherApps.feature.Verify whether Help Image for Help Text displays in the Side Menu in Portrait mode()[pri:1003, instance:com.qmetry.qaf.automation.step.client.Scenario@3eb]" name="Verify whether Help Image for Help Text displays in the Side Menu in Portrait mode" class="com.qmetry.qaf.automation.step.client.Scenario"/>
+      </group> <!-- @otherApps3 -->
+      <group name="@otherApps2">
+        <method signature="src.main.resources.scenarios.otherApps.feature.Verify whether Help Text displays in the Side Menu in Landscape mode()[pri:1001, instance:com.qmetry.qaf.automation.step.client.Scenario@3e9]" name="Verify whether Help Text displays in the Side Menu in Landscape mode" class="com.qmetry.qaf.automation.step.client.Scenario"/>
+      </group> <!-- @otherApps2 -->
+    </groups>
+    <test name="Android NextGenNavigationTestFor iPhone-6S Plus" duration-ms="225132" started-at="2018-08-09T13:58:29Z" finished-at="2018-08-09T14:02:14Z">
+      <class name="com.qmetry.qaf.automation.step.client.Scenario">
+        <test-method status="PASS" signature="setupSuit(org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether Help Text displays in the Side Menu in Portrait mode" name="setupSuit" is-config="true" duration-ms="25" started-at="2018-08-09T14:58:28Z" finished-at="2018-08-09T14:58:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupSuit -->
+        <test-method status="PASS" signature="setupTest(org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether Help Text displays in the Side Menu in Portrait mode" name="setupTest" is-config="true" duration-ms="125" started-at="2018-08-09T14:58:29Z" finished-at="2018-08-09T14:58:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method status="PASS" signature="setup(org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether Help Text displays in the Side Menu in Portrait mode" name="setup" is-config="true" duration-ms="0" started-at="2018-08-09T14:58:29Z" finished-at="2018-08-09T14:58:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setupMethod(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether Help Text displays in the Side Menu in Portrait mode" name="setupMethod" is-config="true" duration-ms="0" started-at="2018-08-09T14:58:29Z" finished-at="2018-08-09T14:58:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qmetry.qaf.automation.step.client.Scenario.scenario()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="Verify whether Help Text displays in the Side Menu in Portrait mode()[pri:1000, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]" test-instance-name="Verify whether Help Text displays in the Side Menu in Portrait mode" name="Verify whether Help Text displays in the Side Menu in Portrait mode" duration-ms="54268" started-at="2018-08-09T14:58:29Z" finished-at="2018-08-09T14:59:23Z">
+          <reporter-output>
+            <line>
+              <![CDATA[▀▄▀▄▀ DEVICE PROPERTIES: Capabilities [{reportPdfUrl=https://bttv.reporting.perfectomobile.com/export/api/v1/test-executions/pdf?externalId[0]=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp[0]=1533823108568, deviceName=C974E634581B4E51C9D7AB6672EF0962C923AEEE, fullReset=true, platform=IOS, password=, deviceSessionId=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891, driverClass=io.appium.java_client.ios.IOSDriver, automationName=Appium, host=bttv.perfectomobile.com, singleTestReportUrl=https://bttv.reporting.perfectomobile.com/library?externalId[0]=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp[0]=1533823108568, takesScreenshot=true, javascriptEnabled=true, platformName=IOS, applicationName=Calculator, rotatable=true, testGridReportUrl=https://bttv.reporting.perfectomobile.com/library?externalId[0]=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp[0]=1533823108568, entityType=remote_web_driver, serverConnector=, securityToken=, executionId=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891, webdriver.remote.sessionid=13c7e82c-22df-4f8f-ba32-0e0edc639064, locationContextEnabled=true, scriptName=RemoteWebDriver, reportKey=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891, windTunnelReportUrl=https://bttv.reporting.perfectomobile.com/library?externalId[0]=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp[0]=1533823108568, user=, cssSelectorsEnabled=true}] ▀▄▀▄▀]]>
+            </line>
+            <line>
+              <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+            </line>
+            <line>
+              <![CDATA[█ TEST STARTED: Verify whether Help Text displays in the Side Menu in Portrait mode █]]>
+            </line>
+            <line>
+              <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+            </line>
+            <line>
+              <![CDATA[▄ ▄ ▄ BEGIN STEP: Given I open BTTV App as a fresh install ▄ ▄ ▄]]>
+            </line>
+            <line>
+              <![CDATA[▀ ▀ ▀ END STEP: Given I open BTTV App as a fresh install ▀ ▀ ▀]]>
+            </line>
+            <line>
+              <![CDATA[▄ ▄ ▄ BEGIN STEP: Then I rotate the device to portrait ▄ ▄ ▄]]>
+            </line>
+            <line>
+              <![CDATA[▀ ▀ ▀ END STEP: Then I rotate the device to portrait ▀ ▀ ▀]]>
+            </line>
+            <line>
+              <![CDATA[▄ ▄ ▄ BEGIN STEP: Then I click on "hamburger.button" ▄ ▄ ▄]]>
+            </line>
+            <line>
+              <![CDATA[▀ ▀ ▀ END STEP: Then I click on "hamburger.button" ▀ ▀ ▀]]>
+            </line>
+            <line>
+              <![CDATA[▄ ▄ ▄ BEGIN STEP: Then "help.text" should exist ▄ ▄ ▄]]>
+            </line>
+            <line>
+              <![CDATA[▀ ▀ ▀ END STEP: Then "help.text" should exist ▀ ▀ ▀]]>
+            </line>
+            <line>
+              <![CDATA[▀▄▀▄▀ REPORTIUM URL: https://bttv.reporting.perfectomobile.com/library?externalId%5B0%5D=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp%5B0%5D=1533823108568 ▀▄▀▄▀]]>
+            </line>
+            <line>
+              <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+            </line>
+            <line>
+              <![CDATA[█ TEST PASSED: Verify whether Help Text displays in the Side Menu in Portrait mode █]]>
+            </line>
+            <line>
+              <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+            </line>
+            <line>
+              <![CDATA[<div style="display:block;margin-left:10px;"><div  class="teststeppass"><span class="teststeppass-label">T </span>Given I open BTTV App as a fresh install</div><div  class="teststeppass"><span class="teststeppass-label">T </span>Then I rotate the device to portrait</div><div  class="teststeppass"><span class="teststeppass-label">T </span>Then I click on "hamburger.button"</div><div  class="teststeppass"><span class="teststeppass-label">T </span>Then "help.text" should exist</div><div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>Expected By.xpath: //*[@label="Help"] present : Actual By.xpath: //*[@label="Help"] present</div></div></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify whether Help Text displays in the Side Menu in Portrait mode -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestContext, org.testng.ITestResult)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether Help Text displays in the Side Menu in Portrait mode" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-08-09T14:59:23Z" finished-at="2018-08-09T14:59:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=Verify whether Help Text displays in the Side Menu in Portrait mode status=SUCCESS method=src.main.resources.scenarios.otherApps.feature.Verify whether Help Text displays in the Side Menu in Portrait mode()[pri:1000, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8] output=▀▄▀▄▀ DEVICE PROPERTIES: Capabilities [{reportPdfUrl=https://bttv.reporting.perfectomobile.com/export/api/v1/test-executions/pdf?externalId[0]=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp[0]=1533823108568, deviceName=C974E634581B4E51C9D7AB6672EF0962C923AEEE, fullReset=true, platform=IOS, password=, deviceSessionId=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891, driverClass=io.appium.java_client.ios.IOSDriver, automationName=Appium, host=bttv.perfectomobile.com, singleTestReportUrl=https://bttv.reporting.perfectomobile.com/library?externalId[0]=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp[0]=1533823108568, takesScreenshot=true, javascriptEnabled=true, platformName=IOS, applicationName=Calculator, rotatable=true, testGridReportUrl=https://bttv.reporting.perfectomobile.com/library?externalId[0]=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp[0]=1533823108568, entityType=remote_web_driver, serverConnector=, securityToken=, executionId=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891, webdriver.remote.sessionid=13c7e82c-22df-4f8f-ba32-0e0edc639064, locationContextEnabled=true, scriptName=RemoteWebDriver, reportKey=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891, windTunnelReportUrl=https://bttv.reporting.perfectomobile.com/library?externalId[0]=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp[0]=1533823108568, user=, cssSelectorsEnabled=true}] ▀▄▀▄▀]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass(org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether Help Text displays in the Side Menu in Portrait mode" name="afterClass" is-config="true" duration-ms="1" started-at="2018-08-09T14:59:23Z" finished-at="2018-08-09T14:59:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="setup(org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether Help Text displays in the Side Menu in Landscape mode" name="setup" is-config="true" duration-ms="0" started-at="2018-08-09T14:59:23Z" finished-at="2018-08-09T14:59:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setupMethod(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether Help Text displays in the Side Menu in Landscape mode" name="setupMethod" is-config="true" duration-ms="1" started-at="2018-08-09T14:59:23Z" finished-at="2018-08-09T14:59:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qmetry.qaf.automation.step.client.Scenario.scenario()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="Verify whether Help Text displays in the Side Menu in Landscape mode()[pri:1001, instance:com.qmetry.qaf.automation.step.client.Scenario@3e9]" test-instance-name="Verify whether Help Text displays in the Side Menu in Landscape mode" name="Verify whether Help Text displays in the Side Menu in Landscape mode" duration-ms="6826" started-at="2018-08-09T14:59:23Z" finished-at="2018-08-09T14:59:30Z">
+          <reporter-output>
+            <line>
+              <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+            </line>
+            <line>
+              <![CDATA[█ TEST STARTED: Verify whether Help Text displays in the Side Menu in Landscape mode █]]>
+            </line>
+            <line>
+              <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+            </line>
+            <line>
+              <![CDATA[▄ ▄ ▄ BEGIN STEP: Given I rotate the device to Landscape depending on device type ▄ ▄ ▄]]>
+            </line>
+            <line>
+              <![CDATA[▀ ▀ ▀ END STEP: Given I rotate the device to Landscape depending on device type ▀ ▀ ▀]]>
+            </line>
+            <line>
+              <![CDATA[▄ ▄ ▄ BEGIN STEP: Then "help.text" should exist ▄ ▄ ▄]]>
+            </line>
+            <line>
+              <![CDATA[▀ ▀ ▀ END STEP: Then "help.text" should exist ▀ ▀ ▀]]>
+            </line>
+            <line>
+              <![CDATA[▀▄▀▄▀ REPORTIUM URL: https://bttv.reporting.perfectomobile.com/library?externalId%5B0%5D=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp%5B0%5D=1533823108568 ▀▄▀▄▀]]>
+            </line>
+            <line>
+              <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+            </line>
+            <line>
+              <![CDATA[█ TEST PASSED: Verify whether Help Text displays in the Side Menu in Landscape mode █]]>
+            </line>
+            <line>
+              <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+            </line>
+            <line>
+              <![CDATA[<div style="display:block;margin-left:10px;"><div  class="teststeppass"><span class="teststeppass-label">T </span>Given I rotate the device to Landscape depending on device type</div><div  class="teststeppass"><span class="teststeppass-label">T </span>Then "help.text" should exist</div><div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>Expected By.xpath: //*[@label="Help"] present : Actual By.xpath: //*[@label="Help"] present</div></div></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify whether Help Text displays in the Side Menu in Landscape mode -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestContext, org.testng.ITestResult)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether Help Text displays in the Side Menu in Landscape mode" name="afterMethod" is-config="true" duration-ms="2" started-at="2018-08-09T14:59:30Z" finished-at="2018-08-09T14:59:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=Verify whether Help Text displays in the Side Menu in Landscape mode status=SUCCESS method=src.main.resources.scenarios.otherApps.feature.Verify whether Help Text displays in the Side Menu in Landscape mode()[pri:1001, instance:com.qmetry.qaf.automation.step.client.Scenario@3e9] output=█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass(org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether Help Text displays in the Side Menu in Landscape mode" name="afterClass" is-config="true" duration-ms="1" started-at="2018-08-09T14:59:30Z" finished-at="2018-08-09T14:59:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="setup(org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether Help Image for Help Text displays in the Side Menu in Landscape mode" name="setup" is-config="true" duration-ms="0" started-at="2018-08-09T14:59:30Z" finished-at="2018-08-09T14:59:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setupMethod(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether Help Image for Help Text displays in the Side Menu in Landscape mode" name="setupMethod" is-config="true" duration-ms="3" started-at="2018-08-09T14:59:30Z" finished-at="2018-08-09T14:59:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qmetry.qaf.automation.step.client.Scenario.scenario()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="Verify whether Help Image for Help Text displays in the Side Menu in Landscape mode()[pri:1002, instance:com.qmetry.qaf.automation.step.client.Scenario@3ea]" test-instance-name="Verify whether Help Image for Help Text displays in the Side Menu in Landscape mode" name="Verify whether Help Image for Help Text displays in the Side Menu in Landscape mode" duration-ms="5882" started-at="2018-08-09T14:59:30Z" finished-at="2018-08-09T14:59:36Z">
+          <reporter-output>
+            <line>
+              <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+            </line>
+            <line>
+              <![CDATA[█ TEST STARTED: Verify whether Help Image for Help Text displays in the Side Menu in Landscape mode █]]>
+            </line>
+            <line>
+              <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+            </line>
+            <line>
+              <![CDATA[▄ ▄ ▄ BEGIN STEP: Given I rotate the device to portrait ▄ ▄ ▄]]>
+            </line>
+            <line>
+              <![CDATA[▀ ▀ ▀ END STEP: Given I rotate the device to portrait ▀ ▀ ▀]]>
+            </line>
+            <line>
+              <![CDATA[▄ ▄ ▄ BEGIN STEP: Then "help.image" should exist ▄ ▄ ▄]]>
+            </line>
+            <line>
+              <![CDATA[▀ ▀ ▀ END STEP: Then "help.image" should exist ▀ ▀ ▀]]>
+            </line>
+            <line>
+              <![CDATA[▀▄▀▄▀ REPORTIUM URL: https://bttv.reporting.perfectomobile.com/library?externalId%5B0%5D=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp%5B0%5D=1533823108568 ▀▄▀▄▀]]>
+            </line>
+            <line>
+              <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+            </line>
+            <line>
+              <![CDATA[█ TEST PASSED: Verify whether Help Image for Help Text displays in the Side Menu in Landscape mode █]]>
+            </line>
+            <line>
+              <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+            </line>
+            <line>
+              <![CDATA[<div style="display:block;margin-left:10px;"><div  class="teststeppass"><span class="teststeppass-label">T </span>Given I rotate the device to portrait</div><div  class="teststeppass"><span class="teststeppass-label">T </span>Then "help.image" should exist</div><div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>Expected By.xpath: //UIATableCell[2]/UIAStaticText[1] present : Actual By.xpath: //UIATableCell[2]/UIAStaticText[1] present</div></div></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify whether Help Image for Help Text displays in the Side Menu in Landscape mode -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestContext, org.testng.ITestResult)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether Help Image for Help Text displays in the Side Menu in Landscape mode" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-08-09T14:59:36Z" finished-at="2018-08-09T14:59:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=Verify whether Help Image for Help Text displays in the Side Menu in Landscape mode status=SUCCESS method=src.main.resources.scenarios.otherApps.feature.Verify whether Help Image for Help Text displays in the Side Menu in Landscape mode()[pri:1002, instance:com.qmetry.qaf.automation.step.client.Scenario@3ea] output=█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass(org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether Help Image for Help Text displays in the Side Menu in Landscape mode" name="afterClass" is-config="true" duration-ms="0" started-at="2018-08-09T14:59:36Z" finished-at="2018-08-09T14:59:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="setup(org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether Help Image for Help Text displays in the Side Menu in Portrait mode" name="setup" is-config="true" duration-ms="0" started-at="2018-08-09T14:59:36Z" finished-at="2018-08-09T14:59:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Verify whether Help Image for Help Text displays in the Side Menu in Portrait mode()[pri:1003, instance:com.qmetry.qaf.automation.step.client.Scenario@3eb]" test-instance-name="Verify whether Help Image for Help Text displays in the Side Menu in Portrait mode" name="Verify whether Help Image for Help Text displays in the Side Menu in Portrait mode" duration-ms="6829" started-at="2018-08-09T14:59:36Z" finished-at="2018-08-09T14:59:43Z">
+          <reporter-output>
+            <line>
+              <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+            </line>
+            <line>
+              <![CDATA[█ TEST STARTED: Verify whether Help Image for Help Text displays in the Side Menu in Portrait mode █]]>
+            </line>
+            <line>
+              <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+            </line>
+            <line>
+              <![CDATA[▄ ▄ ▄ BEGIN STEP: Given I rotate the device to Landscape depending on device type ▄ ▄ ▄]]>
+            </line>
+            <line>
+              <![CDATA[▀ ▀ ▀ END STEP: Given I rotate the device to Landscape depending on device type ▀ ▀ ▀]]>
+            </line>
+            <line>
+              <![CDATA[▄ ▄ ▄ BEGIN STEP: Then "help.image" should exist ▄ ▄ ▄]]>
+            </line>
+            <line>
+              <![CDATA[▀ ▀ ▀ END STEP: Then "help.image" should exist ▀ ▀ ▀]]>
+            </line>
+            <line>
+              <![CDATA[▀▄▀▄▀ REPORTIUM URL: https://bttv.reporting.perfectomobile.com/library?externalId%5B0%5D=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp%5B0%5D=1533823108568 ▀▄▀▄▀]]>
+            </line>
+            <line>
+              <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+            </line>
+            <line>
+              <![CDATA[█ TEST PASSED: Verify whether Help Image for Help Text displays in the Side Menu in Portrait mode █]]>
+            </line>
+            <line>
+              <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+            </line>
+            <line>
+              <![CDATA[<div style="display:block;margin-left:10px;"><div  class="teststeppass"><span class="teststeppass-label">T </span>Given I rotate the device to Landscape depending on device type</div><div  class="teststeppass"><span class="teststeppass-label">T </span>Then "help.image" should exist</div><div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>Expected By.xpath: //UIATableCell[2]/UIAStaticText[1] present : Actual By.xpath: //UIATableCell[2]/UIAStaticText[1] present</div></div></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify whether Help Image for Help Text displays in the Side Menu in Portrait mode -->
+        <test-method status="PASS" signature="setupMethod(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether Help Image for Help Text displays in the Side Menu in Portrait mode" name="setupMethod" is-config="true" duration-ms="0" started-at="2018-08-09T14:59:36Z" finished-at="2018-08-09T14:59:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qmetry.qaf.automation.step.client.Scenario.scenario()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestContext, org.testng.ITestResult)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether Help Image for Help Text displays in the Side Menu in Portrait mode" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-08-09T14:59:43Z" finished-at="2018-08-09T14:59:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=Verify whether Help Image for Help Text displays in the Side Menu in Portrait mode status=SUCCESS method=src.main.resources.scenarios.otherApps.feature.Verify whether Help Image for Help Text displays in the Side Menu in Portrait mode()[pri:1003, instance:com.qmetry.qaf.automation.step.client.Scenario@3eb] output=█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass(org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether Help Image for Help Text displays in the Side Menu in Portrait mode" name="afterClass" is-config="true" duration-ms="0" started-at="2018-08-09T14:59:43Z" finished-at="2018-08-09T14:59:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="setupMethod(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether Other Apps Text displays in the Side Menu in Portrait mode" name="setupMethod" is-config="true" duration-ms="1" started-at="2018-08-09T14:59:43Z" finished-at="2018-08-09T14:59:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qmetry.qaf.automation.step.client.Scenario.scenario()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="setup(org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether Other Apps Text displays in the Side Menu in Portrait mode" name="setup" is-config="true" duration-ms="0" started-at="2018-08-09T14:59:43Z" finished-at="2018-08-09T14:59:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Verify whether Other Apps Text displays in the Side Menu in Portrait mode()[pri:1004, instance:com.qmetry.qaf.automation.step.client.Scenario@3ec]" test-instance-name="Verify whether Other Apps Text displays in the Side Menu in Portrait mode" name="Verify whether Other Apps Text displays in the Side Menu in Portrait mode" duration-ms="5913" started-at="2018-08-09T14:59:43Z" finished-at="2018-08-09T14:59:49Z">
+          <reporter-output>
+            <line>
+              <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+            </line>
+            <line>
+              <![CDATA[█ TEST STARTED: Verify whether Other Apps Text displays in the Side Menu in Portrait mode █]]>
+            </line>
+            <line>
+              <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+            </line>
+            <line>
+              <![CDATA[▄ ▄ ▄ BEGIN STEP: Given I rotate the device to portrait ▄ ▄ ▄]]>
+            </line>
+            <line>
+              <![CDATA[▀ ▀ ▀ END STEP: Given I rotate the device to portrait ▀ ▀ ▀]]>
+            </line>
+            <line>
+              <![CDATA[▄ ▄ ▄ BEGIN STEP: Then "otherApps.text" should exist ▄ ▄ ▄]]>
+            </line>
+            <line>
+              <![CDATA[▀ ▀ ▀ END STEP: Then "otherApps.text" should exist ▀ ▀ ▀]]>
+            </line>
+            <line>
+              <![CDATA[▀▄▀▄▀ REPORTIUM URL: https://bttv.reporting.perfectomobile.com/library?externalId%5B0%5D=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp%5B0%5D=1533823108568 ▀▄▀▄▀]]>
+            </line>
+            <line>
+              <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+            </line>
+            <line>
+              <![CDATA[█ TEST PASSED: Verify whether Other Apps Text displays in the Side Menu in Portrait mode █]]>
+            </line>
+            <line>
+              <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+            </line>
+            <line>
+              <![CDATA[<div style="display:block;margin-left:10px;"><div  class="teststeppass"><span class="teststeppass-label">T </span>Given I rotate the device to portrait</div><div  class="teststeppass"><span class="teststeppass-label">T </span>Then "otherApps.text" should exist</div><div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>Expected By.xpath: //*[@label="Other apps from BT"] present : Actual By.xpath: //*[@label="Other apps from BT"] present</div></div></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify whether Other Apps Text displays in the Side Menu in Portrait mode -->
+        <test-method status="PASS" signature="afterClass(org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether Other Apps Text displays in the Side Menu in Portrait mode" name="afterClass" is-config="true" duration-ms="0" started-at="2018-08-09T14:59:49Z" finished-at="2018-08-09T14:59:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="setup(org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether Other Apps Text displays in the Side Menu in Portrait mode" name="setup" is-config="true" duration-ms="1" started-at="2018-08-09T14:59:49Z" finished-at="2018-08-09T14:59:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestContext, org.testng.ITestResult)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether Other Apps Text displays in the Side Menu in Portrait mode" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-08-09T14:59:49Z" finished-at="2018-08-09T14:59:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=Verify whether Other Apps Text displays in the Side Menu in Portrait mode status=SUCCESS method=src.main.resources.scenarios.otherApps.feature.Verify whether Other Apps Text displays in the Side Menu in Portrait mode()[pri:1004, instance:com.qmetry.qaf.automation.step.client.Scenario@3ec] output=█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="setupMethod(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether Other Apps Text displays in the Side Menu in Portrait mode" name="setupMethod" is-config="true" duration-ms="0" started-at="2018-08-09T14:59:49Z" finished-at="2018-08-09T14:59:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qmetry.qaf.automation.step.client.Scenario.scenario()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="Verify whether Other Apps Text displays in the Side Menu in Portrait mode()[pri:1005, instance:com.qmetry.qaf.automation.step.client.Scenario@3ed]" test-instance-name="Verify whether Other Apps Text displays in the Side Menu in Portrait mode" name="Verify whether Other Apps Text displays in the Side Menu in Portrait mode" duration-ms="5906" started-at="2018-08-09T14:59:49Z" finished-at="2018-08-09T14:59:55Z">
+          <reporter-output>
+            <line>
+              <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+            </line>
+            <line>
+              <![CDATA[█ TEST STARTED: Verify whether Other Apps Text displays in the Side Menu in Portrait mode █]]>
+            </line>
+            <line>
+              <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+            </line>
+            <line>
+              <![CDATA[▄ ▄ ▄ BEGIN STEP: Given I rotate the device to Landscape depending on device type ▄ ▄ ▄]]>
+            </line>
+            <line>
+              <![CDATA[▀ ▀ ▀ END STEP: Given I rotate the device to Landscape depending on device type ▀ ▀ ▀]]>
+            </line>
+            <line>
+              <![CDATA[▄ ▄ ▄ BEGIN STEP: Then "otherApps.text" should exist ▄ ▄ ▄]]>
+            </line>
+            <line>
+              <![CDATA[▀ ▀ ▀ END STEP: Then "otherApps.text" should exist ▀ ▀ ▀]]>
+            </line>
+            <line>
+              <![CDATA[▀▄▀▄▀ REPORTIUM URL: https://bttv.reporting.perfectomobile.com/library?externalId%5B0%5D=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp%5B0%5D=1533823108568 ▀▄▀▄▀]]>
+            </line>
+            <line>
+              <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+            </line>
+            <line>
+              <![CDATA[█ TEST PASSED: Verify whether Other Apps Text displays in the Side Menu in Portrait mode █]]>
+            </line>
+            <line>
+              <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+            </line>
+            <line>
+              <![CDATA[<div style="display:block;margin-left:10px;"><div  class="teststeppass"><span class="teststeppass-label">T </span>Given I rotate the device to Landscape depending on device type</div><div  class="teststeppass"><span class="teststeppass-label">T </span>Then "otherApps.text" should exist</div><div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>Expected By.xpath: //*[@label="Other apps from BT"] present : Actual By.xpath: //*[@label="Other apps from BT"] present</div></div></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify whether Other Apps Text displays in the Side Menu in Portrait mode -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestContext, org.testng.ITestResult)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether Other Apps Text displays in the Side Menu in Portrait mode" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-08-09T14:59:55Z" finished-at="2018-08-09T14:59:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=Verify whether Other Apps Text displays in the Side Menu in Portrait mode status=SUCCESS method=src.main.resources.scenarios.otherApps.feature.Verify whether Other Apps Text displays in the Side Menu in Portrait mode()[pri:1005, instance:com.qmetry.qaf.automation.step.client.Scenario@3ed] output=█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="setup(org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether Other Icon for Other Apps text displays in the Side Menu in Portrait mode" name="setup" is-config="true" duration-ms="0" started-at="2018-08-09T14:59:55Z" finished-at="2018-08-09T14:59:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="afterClass(org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether Other Apps Text displays in the Side Menu in Portrait mode" name="afterClass" is-config="true" duration-ms="0" started-at="2018-08-09T14:59:55Z" finished-at="2018-08-09T14:59:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="setupMethod(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether Other Icon for Other Apps text displays in the Side Menu in Portrait mode" name="setupMethod" is-config="true" duration-ms="0" started-at="2018-08-09T14:59:55Z" finished-at="2018-08-09T14:59:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qmetry.qaf.automation.step.client.Scenario.scenario()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="Verify whether Other Icon for Other Apps text displays in the Side Menu in Portrait mode()[pri:1006, instance:com.qmetry.qaf.automation.step.client.Scenario@3ee]" test-instance-name="Verify whether Other Icon for Other Apps text displays in the Side Menu in Portrait mode" name="Verify whether Other Icon for Other Apps text displays in the Side Menu in Portrait mode" duration-ms="5947" started-at="2018-08-09T14:59:55Z" finished-at="2018-08-09T15:00:01Z">
+          <reporter-output>
+            <line>
+              <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+            </line>
+            <line>
+              <![CDATA[█ TEST STARTED: Verify whether Other Icon for Other Apps text displays in the Side Menu in Portrait mode █]]>
+            </line>
+            <line>
+              <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+            </line>
+            <line>
+              <![CDATA[▄ ▄ ▄ BEGIN STEP: Given I rotate the device to portrait ▄ ▄ ▄]]>
+            </line>
+            <line>
+              <![CDATA[▀ ▀ ▀ END STEP: Given I rotate the device to portrait ▀ ▀ ▀]]>
+            </line>
+            <line>
+              <![CDATA[▄ ▄ ▄ BEGIN STEP: Then "otherApps.image" should exist ▄ ▄ ▄]]>
+            </line>
+            <line>
+              <![CDATA[▀ ▀ ▀ END STEP: Then "otherApps.image" should exist ▀ ▀ ▀]]>
+            </line>
+            <line>
+              <![CDATA[▀▄▀▄▀ REPORTIUM URL: https://bttv.reporting.perfectomobile.com/library?externalId%5B0%5D=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp%5B0%5D=1533823108568 ▀▄▀▄▀]]>
+            </line>
+            <line>
+              <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+            </line>
+            <line>
+              <![CDATA[█ TEST PASSED: Verify whether Other Icon for Other Apps text displays in the Side Menu in Portrait mode █]]>
+            </line>
+            <line>
+              <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+            </line>
+            <line>
+              <![CDATA[<div style="display:block;margin-left:10px;"><div  class="teststeppass"><span class="teststeppass-label">T </span>Given I rotate the device to portrait</div><div  class="teststeppass"><span class="teststeppass-label">T </span>Then "otherApps.image" should exist</div><div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>Expected By.xpath: //UIATableCell[3]/UIAStaticText[1] present : Actual By.xpath: //UIATableCell[3]/UIAStaticText[1] present</div></div></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify whether Other Icon for Other Apps text displays in the Side Menu in Portrait mode -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestContext, org.testng.ITestResult)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether Other Icon for Other Apps text displays in the Side Menu in Portrait mode" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-08-09T15:00:02Z" finished-at="2018-08-09T15:00:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=Verify whether Other Icon for Other Apps text displays in the Side Menu in Portrait mode status=SUCCESS method=src.main.resources.scenarios.otherApps.feature.Verify whether Other Icon for Other Apps text displays in the Side Menu in Portrait mode()[pri:1006, instance:com.qmetry.qaf.automation.step.client.Scenario@3ee] output=█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="setup(org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether Other Icon for Other Apps text displays in the Side Menu in Portrait mode" name="setup" is-config="true" duration-ms="0" started-at="2018-08-09T15:00:02Z" finished-at="2018-08-09T15:00:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setupMethod(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether Other Icon for Other Apps text displays in the Side Menu in Portrait mode" name="setupMethod" is-config="true" duration-ms="1" started-at="2018-08-09T15:00:02Z" finished-at="2018-08-09T15:00:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qmetry.qaf.automation.step.client.Scenario.scenario()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="afterClass(org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether Other Icon for Other Apps text displays in the Side Menu in Portrait mode" name="afterClass" is-config="true" duration-ms="0" started-at="2018-08-09T15:00:02Z" finished-at="2018-08-09T15:00:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="Verify whether Other Icon for Other Apps text displays in the Side Menu in Portrait mode()[pri:1007, instance:com.qmetry.qaf.automation.step.client.Scenario@3ef]" test-instance-name="Verify whether Other Icon for Other Apps text displays in the Side Menu in Portrait mode" name="Verify whether Other Icon for Other Apps text displays in the Side Menu in Portrait mode" duration-ms="6765" started-at="2018-08-09T15:00:02Z" finished-at="2018-08-09T15:00:08Z">
+          <reporter-output>
+            <line>
+              <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+            </line>
+            <line>
+              <![CDATA[█ TEST STARTED: Verify whether Other Icon for Other Apps text displays in the Side Menu in Portrait mode █]]>
+            </line>
+            <line>
+              <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+            </line>
+            <line>
+              <![CDATA[▄ ▄ ▄ BEGIN STEP: Given I rotate the device to Landscape depending on device type ▄ ▄ ▄]]>
+            </line>
+            <line>
+              <![CDATA[▀ ▀ ▀ END STEP: Given I rotate the device to Landscape depending on device type ▀ ▀ ▀]]>
+            </line>
+            <line>
+              <![CDATA[▄ ▄ ▄ BEGIN STEP: Then "otherApps.image" should exist ▄ ▄ ▄]]>
+            </line>
+            <line>
+              <![CDATA[▀ ▀ ▀ END STEP: Then "otherApps.image" should exist ▀ ▀ ▀]]>
+            </line>
+            <line>
+              <![CDATA[▀▄▀▄▀ REPORTIUM URL: https://bttv.reporting.perfectomobile.com/library?externalId%5B0%5D=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp%5B0%5D=1533823108568 ▀▄▀▄▀]]>
+            </line>
+            <line>
+              <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+            </line>
+            <line>
+              <![CDATA[█ TEST PASSED: Verify whether Other Icon for Other Apps text displays in the Side Menu in Portrait mode █]]>
+            </line>
+            <line>
+              <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+            </line>
+            <line>
+              <![CDATA[<div style="display:block;margin-left:10px;"><div  class="teststeppass"><span class="teststeppass-label">T </span>Given I rotate the device to Landscape depending on device type</div><div  class="teststeppass"><span class="teststeppass-label">T </span>Then "otherApps.image" should exist</div><div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>Expected By.xpath: //UIATableCell[3]/UIAStaticText[1] present : Actual By.xpath: //UIATableCell[3]/UIAStaticText[1] present</div></div></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify whether Other Icon for Other Apps text displays in the Side Menu in Portrait mode -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestContext, org.testng.ITestResult)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether Other Icon for Other Apps text displays in the Side Menu in Portrait mode" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-08-09T15:00:09Z" finished-at="2018-08-09T15:00:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=Verify whether Other Icon for Other Apps text displays in the Side Menu in Portrait mode status=SUCCESS method=src.main.resources.scenarios.otherApps.feature.Verify whether Other Icon for Other Apps text displays in the Side Menu in Portrait mode()[pri:1007, instance:com.qmetry.qaf.automation.step.client.Scenario@3ef] output=█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass(org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether Other Icon for Other Apps text displays in the Side Menu in Portrait mode" name="afterClass" is-config="true" duration-ms="1" started-at="2018-08-09T15:00:09Z" finished-at="2018-08-09T15:00:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="setup(org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether the clicking on Help takes the user to the Help Page in portrait mode" name="setup" is-config="true" duration-ms="0" started-at="2018-08-09T15:00:09Z" finished-at="2018-08-09T15:00:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Verify whether the clicking on Help takes the user to the Help Page in portrait mode()[pri:1008, instance:com.qmetry.qaf.automation.step.client.Scenario@3f0]" test-instance-name="Verify whether the clicking on Help takes the user to the Help Page in portrait mode" name="Verify whether the clicking on Help takes the user to the Help Page in portrait mode" duration-ms="9333" started-at="2018-08-09T15:00:09Z" finished-at="2018-08-09T15:00:18Z">
+          <reporter-output>
+            <line>
+              <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+            </line>
+            <line>
+              <![CDATA[█ TEST STARTED: Verify whether the clicking on Help takes the user to the Help Page in portrait mode █]]>
+            </line>
+            <line>
+              <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+            </line>
+            <line>
+              <![CDATA[▄ ▄ ▄ BEGIN STEP: Given I rotate the device to portrait ▄ ▄ ▄]]>
+            </line>
+            <line>
+              <![CDATA[▀ ▀ ▀ END STEP: Given I rotate the device to portrait ▀ ▀ ▀]]>
+            </line>
+            <line>
+              <![CDATA[▄ ▄ ▄ BEGIN STEP: Then I should click "help.text" verify the webview text as "help.web" ▄ ▄ ▄]]>
+            </line>
+            <line>
+              <![CDATA[▀ ▀ ▀ END STEP: Then I should click "help.text" verify the webview text as "help.web" ▀ ▀ ▀]]>
+            </line>
+            <line>
+              <![CDATA[▀▄▀▄▀ REPORTIUM URL: https://bttv.reporting.perfectomobile.com/library?externalId%5B0%5D=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp%5B0%5D=1533823108568 ▀▄▀▄▀]]>
+            </line>
+            <line>
+              <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+            </line>
+            <line>
+              <![CDATA[█ TEST PASSED: Verify whether the clicking on Help takes the user to the Help Page in portrait mode █]]>
+            </line>
+            <line>
+              <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+            </line>
+            <line>
+              <![CDATA[<div style="display:block;margin-left:10px;"><div  class="teststeppass"><span class="teststeppass-label">T </span>Given I rotate the device to portrait</div><div  class="teststeppass"><span class="teststeppass-label">T </span>Then I should click "help.text" verify the webview text as "help.web"</div><div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>Expected By.xpath: //h1[text()="BT TV App help"] visible : Actual By.xpath: //h1[text()="BT TV App help"] visible</div></div></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify whether the clicking on Help takes the user to the Help Page in portrait mode -->
+        <test-method status="PASS" signature="setupMethod(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether the clicking on Help takes the user to the Help Page in portrait mode" name="setupMethod" is-config="true" duration-ms="0" started-at="2018-08-09T15:00:09Z" finished-at="2018-08-09T15:00:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qmetry.qaf.automation.step.client.Scenario.scenario()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestContext, org.testng.ITestResult)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether the clicking on Help takes the user to the Help Page in portrait mode" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-08-09T15:00:18Z" finished-at="2018-08-09T15:00:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=Verify whether the clicking on Help takes the user to the Help Page in portrait mode status=SUCCESS method=src.main.resources.scenarios.otherApps.feature.Verify whether the clicking on Help takes the user to the Help Page in portrait mode()[pri:1008, instance:com.qmetry.qaf.automation.step.client.Scenario@3f0] output=█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass(org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether the clicking on Help takes the user to the Help Page in portrait mode" name="afterClass" is-config="true" duration-ms="0" started-at="2018-08-09T15:00:18Z" finished-at="2018-08-09T15:00:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="setup(org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify that the closing the Help Webview takes the user to the App in portrait mode" name="setup" is-config="true" duration-ms="0" started-at="2018-08-09T15:00:18Z" finished-at="2018-08-09T15:00:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setupMethod(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify that the closing the Help Webview takes the user to the App in portrait mode" name="setupMethod" is-config="true" duration-ms="0" started-at="2018-08-09T15:00:18Z" finished-at="2018-08-09T15:00:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qmetry.qaf.automation.step.client.Scenario.scenario()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="Verify that the closing the Help Webview takes the user to the App in portrait mode()[pri:1009, instance:com.qmetry.qaf.automation.step.client.Scenario@3f1]" test-instance-name="Verify that the closing the Help Webview takes the user to the App in portrait mode" name="Verify that the closing the Help Webview takes the user to the App in portrait mode" duration-ms="17962" started-at="2018-08-09T15:00:18Z" finished-at="2018-08-09T15:00:36Z">
+          <reporter-output>
+            <line>
+              <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+            </line>
+            <line>
+              <![CDATA[█ TEST STARTED: Verify that the closing the Help Webview takes the user to the App in portrait mode █]]>
+            </line>
+            <line>
+              <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+            </line>
+            <line>
+              <![CDATA[▄ ▄ ▄ BEGIN STEP: Given I rotate the device to portrait ▄ ▄ ▄]]>
+            </line>
+            <line>
+              <![CDATA[▀ ▀ ▀ END STEP: Given I rotate the device to portrait ▀ ▀ ▀]]>
+            </line>
+            <line>
+              <![CDATA[▄ ▄ ▄ BEGIN STEP: Then I should come back to app from webview by clicking "help.close" for "Help" ▄ ▄ ▄]]>
+            </line>
+            <line>
+              <![CDATA[▀ ▀ ▀ END STEP: Then I should come back to app from webview by clicking "help.close" for "Help" ▀ ▀ ▀]]>
+            </line>
+            <line>
+              <![CDATA[▀▄▀▄▀ REPORTIUM URL: https://bttv.reporting.perfectomobile.com/library?externalId%5B0%5D=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp%5B0%5D=1533823108568 ▀▄▀▄▀]]>
+            </line>
+            <line>
+              <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+            </line>
+            <line>
+              <![CDATA[█ TEST PASSED: Verify that the closing the Help Webview takes the user to the App in portrait mode █]]>
+            </line>
+            <line>
+              <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+            </line>
+            <line>
+              <![CDATA[<div style="display:block;margin-left:10px;"><div  class="teststeppass"><span class="teststeppass-label">T </span>Given I rotate the device to portrait</div><div  class="teststeppass"><span class="teststeppass-label">T </span>Then I should come back to app from webview by clicking "help.close" for "Help"</div><div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>Expected By.xpath: //*[@label="Help"] visible : Actual By.xpath: //*[@label="Help"] visible</div></div></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify that the closing the Help Webview takes the user to the App in portrait mode -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestContext, org.testng.ITestResult)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify that the closing the Help Webview takes the user to the App in portrait mode" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-08-09T15:00:36Z" finished-at="2018-08-09T15:00:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=Verify that the closing the Help Webview takes the user to the App in portrait mode status=SUCCESS method=src.main.resources.scenarios.otherApps.feature.Verify that the closing the Help Webview takes the user to the App in portrait mode()[pri:1009, instance:com.qmetry.qaf.automation.step.client.Scenario@3f1] output=█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass(org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify that the closing the Help Webview takes the user to the App in portrait mode" name="afterClass" is-config="true" duration-ms="0" started-at="2018-08-09T15:00:36Z" finished-at="2018-08-09T15:00:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="setup(org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether the clicking on Help takes the user to the Help Page in portrait mode" name="setup" is-config="true" duration-ms="1" started-at="2018-08-09T15:00:36Z" finished-at="2018-08-09T15:00:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setupMethod(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether the clicking on Help takes the user to the Help Page in portrait mode" name="setupMethod" is-config="true" duration-ms="1" started-at="2018-08-09T15:00:36Z" finished-at="2018-08-09T15:00:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qmetry.qaf.automation.step.client.Scenario.scenario()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="Verify whether the clicking on Help takes the user to the Help Page in portrait mode()[pri:1010, instance:com.qmetry.qaf.automation.step.client.Scenario@3f2]" test-instance-name="Verify whether the clicking on Help takes the user to the Help Page in portrait mode" name="Verify whether the clicking on Help takes the user to the Help Page in portrait mode" duration-ms="8159" started-at="2018-08-09T15:00:36Z" finished-at="2018-08-09T15:00:44Z">
+          <reporter-output>
+            <line>
+              <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+            </line>
+            <line>
+              <![CDATA[█ TEST STARTED: Verify whether the clicking on Help takes the user to the Help Page in portrait mode █]]>
+            </line>
+            <line>
+              <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+            </line>
+            <line>
+              <![CDATA[▄ ▄ ▄ BEGIN STEP: Given I rotate the device to Landscape depending on device type ▄ ▄ ▄]]>
+            </line>
+            <line>
+              <![CDATA[▀ ▀ ▀ END STEP: Given I rotate the device to Landscape depending on device type ▀ ▀ ▀]]>
+            </line>
+            <line>
+              <![CDATA[▄ ▄ ▄ BEGIN STEP: Then I should click "help.text" verify the webview text as "help.web" ▄ ▄ ▄]]>
+            </line>
+            <line>
+              <![CDATA[▀ ▀ ▀ END STEP: Then I should click "help.text" verify the webview text as "help.web" ▀ ▀ ▀]]>
+            </line>
+            <line>
+              <![CDATA[▀▄▀▄▀ REPORTIUM URL: https://bttv.reporting.perfectomobile.com/library?externalId%5B0%5D=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp%5B0%5D=1533823108568 ▀▄▀▄▀]]>
+            </line>
+            <line>
+              <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+            </line>
+            <line>
+              <![CDATA[█ TEST PASSED: Verify whether the clicking on Help takes the user to the Help Page in portrait mode █]]>
+            </line>
+            <line>
+              <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+            </line>
+            <line>
+              <![CDATA[<div style="display:block;margin-left:10px;"><div  class="teststeppass"><span class="teststeppass-label">T </span>Given I rotate the device to Landscape depending on device type</div><div  class="teststeppass"><span class="teststeppass-label">T </span>Then I should click "help.text" verify the webview text as "help.web"</div><div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>Expected By.xpath: //h1[text()="BT TV App help"] visible : Actual By.xpath: //h1[text()="BT TV App help"] visible</div></div></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify whether the clicking on Help takes the user to the Help Page in portrait mode -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestContext, org.testng.ITestResult)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether the clicking on Help takes the user to the Help Page in portrait mode" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-08-09T15:00:45Z" finished-at="2018-08-09T15:00:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=Verify whether the clicking on Help takes the user to the Help Page in portrait mode status=SUCCESS method=src.main.resources.scenarios.otherApps.feature.Verify whether the clicking on Help takes the user to the Help Page in portrait mode()[pri:1010, instance:com.qmetry.qaf.automation.step.client.Scenario@3f2] output=█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="setup(org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify that the closing the Help Webview takes the user to the App in portrait mode" name="setup" is-config="true" duration-ms="1" started-at="2018-08-09T15:00:45Z" finished-at="2018-08-09T15:00:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="afterClass(org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether the clicking on Help takes the user to the Help Page in portrait mode" name="afterClass" is-config="true" duration-ms="0" started-at="2018-08-09T15:00:45Z" finished-at="2018-08-09T15:00:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="Verify that the closing the Help Webview takes the user to the App in portrait mode()[pri:1011, instance:com.qmetry.qaf.automation.step.client.Scenario@3f3]" test-instance-name="Verify that the closing the Help Webview takes the user to the App in portrait mode" name="Verify that the closing the Help Webview takes the user to the App in portrait mode" duration-ms="17124" started-at="2018-08-09T15:00:45Z" finished-at="2018-08-09T15:01:02Z">
+          <reporter-output>
+            <line>
+              <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+            </line>
+            <line>
+              <![CDATA[█ TEST STARTED: Verify that the closing the Help Webview takes the user to the App in portrait mode █]]>
+            </line>
+            <line>
+              <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+            </line>
+            <line>
+              <![CDATA[▄ ▄ ▄ BEGIN STEP: Given I rotate the device to Landscape depending on device type ▄ ▄ ▄]]>
+            </line>
+            <line>
+              <![CDATA[▀ ▀ ▀ END STEP: Given I rotate the device to Landscape depending on device type ▀ ▀ ▀]]>
+            </line>
+            <line>
+              <![CDATA[▄ ▄ ▄ BEGIN STEP: Then I should come back to app from webview by clicking "help.close" for "Help" ▄ ▄ ▄]]>
+            </line>
+            <line>
+              <![CDATA[▀ ▀ ▀ END STEP: Then I should come back to app from webview by clicking "help.close" for "Help" ▀ ▀ ▀]]>
+            </line>
+            <line>
+              <![CDATA[▀▄▀▄▀ REPORTIUM URL: https://bttv.reporting.perfectomobile.com/library?externalId%5B0%5D=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp%5B0%5D=1533823108568 ▀▄▀▄▀]]>
+            </line>
+            <line>
+              <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+            </line>
+            <line>
+              <![CDATA[█ TEST PASSED: Verify that the closing the Help Webview takes the user to the App in portrait mode █]]>
+            </line>
+            <line>
+              <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+            </line>
+            <line>
+              <![CDATA[<div style="display:block;margin-left:10px;"><div  class="teststeppass"><span class="teststeppass-label">T </span>Given I rotate the device to Landscape depending on device type</div><div  class="teststeppass"><span class="teststeppass-label">T </span>Then I should come back to app from webview by clicking "help.close" for "Help"</div><div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>Expected By.xpath: //*[@label="Help"] visible : Actual By.xpath: //*[@label="Help"] visible</div></div></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify that the closing the Help Webview takes the user to the App in portrait mode -->
+        <test-method status="PASS" signature="setupMethod(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify that the closing the Help Webview takes the user to the App in portrait mode" name="setupMethod" is-config="true" duration-ms="0" started-at="2018-08-09T15:00:45Z" finished-at="2018-08-09T15:00:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qmetry.qaf.automation.step.client.Scenario.scenario()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="setup(org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether the clicking on Help takes the user to the Help Page in portrait mode" name="setup" is-config="true" duration-ms="1" started-at="2018-08-09T15:01:02Z" finished-at="2018-08-09T15:01:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="afterClass(org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify that the closing the Help Webview takes the user to the App in portrait mode" name="afterClass" is-config="true" duration-ms="0" started-at="2018-08-09T15:01:02Z" finished-at="2018-08-09T15:01:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestContext, org.testng.ITestResult)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify that the closing the Help Webview takes the user to the App in portrait mode" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-08-09T15:01:02Z" finished-at="2018-08-09T15:01:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=Verify that the closing the Help Webview takes the user to the App in portrait mode status=SUCCESS method=src.main.resources.scenarios.otherApps.feature.Verify that the closing the Help Webview takes the user to the App in portrait mode()[pri:1011, instance:com.qmetry.qaf.automation.step.client.Scenario@3f3] output=█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="Verify whether the clicking on Help takes the user to the Help Page in portrait mode()[pri:1012, instance:com.qmetry.qaf.automation.step.client.Scenario@3f4]" test-instance-name="Verify whether the clicking on Help takes the user to the Help Page in portrait mode" name="Verify whether the clicking on Help takes the user to the Help Page in portrait mode" duration-ms="10621" started-at="2018-08-09T15:01:02Z" finished-at="2018-08-09T15:01:13Z">
+          <reporter-output>
+            <line>
+              <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+            </line>
+            <line>
+              <![CDATA[█ TEST STARTED: Verify whether the clicking on Help takes the user to the Help Page in portrait mode █]]>
+            </line>
+            <line>
+              <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+            </line>
+            <line>
+              <![CDATA[▄ ▄ ▄ BEGIN STEP: Given I rotate the device to portrait ▄ ▄ ▄]]>
+            </line>
+            <line>
+              <![CDATA[▀ ▀ ▀ END STEP: Given I rotate the device to portrait ▀ ▀ ▀]]>
+            </line>
+            <line>
+              <![CDATA[▄ ▄ ▄ BEGIN STEP: Then I should click "otherApps.text" verify the webview text as "help.web" ▄ ▄ ▄]]>
+            </line>
+            <line>
+              <![CDATA[▀ ▀ ▀ END STEP: Then I should click "otherApps.text" verify the webview text as "help.web" ▀ ▀ ▀]]>
+            </line>
+            <line>
+              <![CDATA[▀▄▀▄▀ REPORTIUM URL: https://bttv.reporting.perfectomobile.com/library?externalId%5B0%5D=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp%5B0%5D=1533823108568 ▀▄▀▄▀]]>
+            </line>
+            <line>
+              <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+            </line>
+            <line>
+              <![CDATA[█ TEST PASSED: Verify whether the clicking on Help takes the user to the Help Page in portrait mode █]]>
+            </line>
+            <line>
+              <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+            </line>
+            <line>
+              <![CDATA[<div style="display:block;margin-left:10px;"><div  class="teststeppass"><span class="teststeppass-label">T </span>Given I rotate the device to portrait</div><div  class="teststeppass"><span class="teststeppass-label">T </span>Then I should click "otherApps.text" verify the webview text as "help.web"</div><div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>Expected By.xpath: //html[1]/body[1]/div[position()>=1]/div[1]/a[1]/div[1] visible : Actual By.xpath: //html[1]/body[1]/div[position()>=1]/div[1]/a[1]/div[1] visible</div></div></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify whether the clicking on Help takes the user to the Help Page in portrait mode -->
+        <test-method status="PASS" signature="setupMethod(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether the clicking on Help takes the user to the Help Page in portrait mode" name="setupMethod" is-config="true" duration-ms="0" started-at="2018-08-09T15:01:02Z" finished-at="2018-08-09T15:01:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qmetry.qaf.automation.step.client.Scenario.scenario()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestContext, org.testng.ITestResult)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether the clicking on Help takes the user to the Help Page in portrait mode" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-08-09T15:01:13Z" finished-at="2018-08-09T15:01:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=Verify whether the clicking on Help takes the user to the Help Page in portrait mode status=SUCCESS method=src.main.resources.scenarios.otherApps.feature.Verify whether the clicking on Help takes the user to the Help Page in portrait mode()[pri:1012, instance:com.qmetry.qaf.automation.step.client.Scenario@3f4] output=█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass(org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether the clicking on Help takes the user to the Help Page in portrait mode" name="afterClass" is-config="true" duration-ms="0" started-at="2018-08-09T15:01:13Z" finished-at="2018-08-09T15:01:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="setup(org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify that the closing the Help Webview takes the user to the App in portrait mode" name="setup" is-config="true" duration-ms="1" started-at="2018-08-09T15:01:13Z" finished-at="2018-08-09T15:01:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setupMethod(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify that the closing the Help Webview takes the user to the App in portrait mode" name="setupMethod" is-config="true" duration-ms="1" started-at="2018-08-09T15:01:13Z" finished-at="2018-08-09T15:01:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qmetry.qaf.automation.step.client.Scenario.scenario()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="Verify that the closing the Help Webview takes the user to the App in portrait mode()[pri:1013, instance:com.qmetry.qaf.automation.step.client.Scenario@3f5]" test-instance-name="Verify that the closing the Help Webview takes the user to the App in portrait mode" name="Verify that the closing the Help Webview takes the user to the App in portrait mode" duration-ms="16922" started-at="2018-08-09T15:01:13Z" finished-at="2018-08-09T15:01:30Z">
+          <reporter-output>
+            <line>
+              <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+            </line>
+            <line>
+              <![CDATA[█ TEST STARTED: Verify that the closing the Help Webview takes the user to the App in portrait mode █]]>
+            </line>
+            <line>
+              <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+            </line>
+            <line>
+              <![CDATA[▄ ▄ ▄ BEGIN STEP: Given I rotate the device to portrait ▄ ▄ ▄]]>
+            </line>
+            <line>
+              <![CDATA[▀ ▀ ▀ END STEP: Given I rotate the device to portrait ▀ ▀ ▀]]>
+            </line>
+            <line>
+              <![CDATA[▄ ▄ ▄ BEGIN STEP: Then I should come back to app from webview by clicking "help.close" for "Other Apps" ▄ ▄ ▄]]>
+            </line>
+            <line>
+              <![CDATA[▀ ▀ ▀ END STEP: Then I should come back to app from webview by clicking "help.close" for "Other Apps" ▀ ▀ ▀]]>
+            </line>
+            <line>
+              <![CDATA[▀▄▀▄▀ REPORTIUM URL: https://bttv.reporting.perfectomobile.com/library?externalId%5B0%5D=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp%5B0%5D=1533823108568 ▀▄▀▄▀]]>
+            </line>
+            <line>
+              <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+            </line>
+            <line>
+              <![CDATA[█ TEST PASSED: Verify that the closing the Help Webview takes the user to the App in portrait mode █]]>
+            </line>
+            <line>
+              <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+            </line>
+            <line>
+              <![CDATA[<div style="display:block;margin-left:10px;"><div  class="teststeppass"><span class="teststeppass-label">T </span>Given I rotate the device to portrait</div><div  class="teststeppass"><span class="teststeppass-label">T </span>Then I should come back to app from webview by clicking "help.close" for "Other Apps"</div><div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>Expected By.xpath: //*[@label="Help"] visible : Actual By.xpath: //*[@label="Help"] visible</div></div></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify that the closing the Help Webview takes the user to the App in portrait mode -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestContext, org.testng.ITestResult)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify that the closing the Help Webview takes the user to the App in portrait mode" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-08-09T15:01:30Z" finished-at="2018-08-09T15:01:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=Verify that the closing the Help Webview takes the user to the App in portrait mode status=SUCCESS method=src.main.resources.scenarios.otherApps.feature.Verify that the closing the Help Webview takes the user to the App in portrait mode()[pri:1013, instance:com.qmetry.qaf.automation.step.client.Scenario@3f5] output=█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="setup(org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether the clicking on Help takes the user to the Help Page in portrait mode" name="setup" is-config="true" duration-ms="0" started-at="2018-08-09T15:01:30Z" finished-at="2018-08-09T15:01:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="afterClass(org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify that the closing the Help Webview takes the user to the App in portrait mode" name="afterClass" is-config="true" duration-ms="0" started-at="2018-08-09T15:01:30Z" finished-at="2018-08-09T15:01:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="Verify whether the clicking on Help takes the user to the Help Page in portrait mode()[pri:1014, instance:com.qmetry.qaf.automation.step.client.Scenario@3f6]" test-instance-name="Verify whether the clicking on Help takes the user to the Help Page in portrait mode" name="Verify whether the clicking on Help takes the user to the Help Page in portrait mode" duration-ms="9396" started-at="2018-08-09T15:01:30Z" finished-at="2018-08-09T15:01:39Z">
+          <reporter-output>
+            <line>
+              <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+            </line>
+            <line>
+              <![CDATA[█ TEST STARTED: Verify whether the clicking on Help takes the user to the Help Page in portrait mode █]]>
+            </line>
+            <line>
+              <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+            </line>
+            <line>
+              <![CDATA[▄ ▄ ▄ BEGIN STEP: Given I rotate the device to Landscape depending on device type ▄ ▄ ▄]]>
+            </line>
+            <line>
+              <![CDATA[▀ ▀ ▀ END STEP: Given I rotate the device to Landscape depending on device type ▀ ▀ ▀]]>
+            </line>
+            <line>
+              <![CDATA[▄ ▄ ▄ BEGIN STEP: Then I should click "otherApps.text" verify the webview text as "help.web" ▄ ▄ ▄]]>
+            </line>
+            <line>
+              <![CDATA[▀ ▀ ▀ END STEP: Then I should click "otherApps.text" verify the webview text as "help.web" ▀ ▀ ▀]]>
+            </line>
+            <line>
+              <![CDATA[▀▄▀▄▀ REPORTIUM URL: https://bttv.reporting.perfectomobile.com/library?externalId%5B0%5D=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp%5B0%5D=1533823108568 ▀▄▀▄▀]]>
+            </line>
+            <line>
+              <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+            </line>
+            <line>
+              <![CDATA[█ TEST PASSED: Verify whether the clicking on Help takes the user to the Help Page in portrait mode █]]>
+            </line>
+            <line>
+              <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+            </line>
+            <line>
+              <![CDATA[<div style="display:block;margin-left:10px;"><div  class="teststeppass"><span class="teststeppass-label">T </span>Given I rotate the device to Landscape depending on device type</div><div  class="teststeppass"><span class="teststeppass-label">T </span>Then I should click "otherApps.text" verify the webview text as "help.web"</div><div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>Expected By.xpath: //html[1]/body[1]/div[position()>=1]/div[1]/a[1]/div[1] visible : Actual By.xpath: //html[1]/body[1]/div[position()>=1]/div[1]/a[1]/div[1] visible</div></div></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify whether the clicking on Help takes the user to the Help Page in portrait mode -->
+        <test-method status="PASS" signature="setupMethod(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether the clicking on Help takes the user to the Help Page in portrait mode" name="setupMethod" is-config="true" duration-ms="0" started-at="2018-08-09T15:01:30Z" finished-at="2018-08-09T15:01:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qmetry.qaf.automation.step.client.Scenario.scenario()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestContext, org.testng.ITestResult)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether the clicking on Help takes the user to the Help Page in portrait mode" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-08-09T15:01:39Z" finished-at="2018-08-09T15:01:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=Verify whether the clicking on Help takes the user to the Help Page in portrait mode status=SUCCESS method=src.main.resources.scenarios.otherApps.feature.Verify whether the clicking on Help takes the user to the Help Page in portrait mode()[pri:1014, instance:com.qmetry.qaf.automation.step.client.Scenario@3f6] output=█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass(org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether the clicking on Help takes the user to the Help Page in portrait mode" name="afterClass" is-config="true" duration-ms="0" started-at="2018-08-09T15:01:39Z" finished-at="2018-08-09T15:01:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="setup(org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify that the closing the Help Webview takes the user to the App in portrait mode" name="setup" is-config="true" duration-ms="1" started-at="2018-08-09T15:01:39Z" finished-at="2018-08-09T15:01:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setupMethod(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify that the closing the Help Webview takes the user to the App in portrait mode" name="setupMethod" is-config="true" duration-ms="2" started-at="2018-08-09T15:01:39Z" finished-at="2018-08-09T15:01:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qmetry.qaf.automation.step.client.Scenario.scenario()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="Verify that the closing the Help Webview takes the user to the App in portrait mode()[pri:1015, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify that the closing the Help Webview takes the user to the App in portrait mode" name="Verify that the closing the Help Webview takes the user to the App in portrait mode" duration-ms="17260" started-at="2018-08-09T15:01:39Z" finished-at="2018-08-09T15:01:57Z">
+          <reporter-output>
+            <line>
+              <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+            </line>
+            <line>
+              <![CDATA[█ TEST STARTED: Verify that the closing the Help Webview takes the user to the App in portrait mode █]]>
+            </line>
+            <line>
+              <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+            </line>
+            <line>
+              <![CDATA[▄ ▄ ▄ BEGIN STEP: Given I rotate the device to Landscape depending on device type ▄ ▄ ▄]]>
+            </line>
+            <line>
+              <![CDATA[▀ ▀ ▀ END STEP: Given I rotate the device to Landscape depending on device type ▀ ▀ ▀]]>
+            </line>
+            <line>
+              <![CDATA[▄ ▄ ▄ BEGIN STEP: Then I should come back to app from webview by clicking "help.close" for "Other Apps" ▄ ▄ ▄]]>
+            </line>
+            <line>
+              <![CDATA[▀ ▀ ▀ END STEP: Then I should come back to app from webview by clicking "help.close" for "Other Apps" ▀ ▀ ▀]]>
+            </line>
+            <line>
+              <![CDATA[▀▄▀▄▀ REPORTIUM URL: https://bttv.reporting.perfectomobile.com/library?externalId%5B0%5D=mrudula.velugubantla@bt.com_RemoteWebDriver_18-08-09_13_58_28_7891&_timestamp%5B0%5D=1533823108568 ▀▄▀▄▀]]>
+            </line>
+            <line>
+              <![CDATA[█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]>
+            </line>
+            <line>
+              <![CDATA[█ TEST PASSED: Verify that the closing the Help Webview takes the user to the App in portrait mode █]]>
+            </line>
+            <line>
+              <![CDATA[█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█]]>
+            </line>
+            <line>
+              <![CDATA[<div style="display:block;margin-left:10px;"><div  class="teststeppass"><span class="teststeppass-label">T </span>Given I rotate the device to Landscape depending on device type</div><div  class="teststeppass"><span class="teststeppass-label">T </span>Then I should come back to app from webview by clicking "help.close" for "Other Apps"</div><div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>Expected By.xpath: //*[@label="Help"] visible : Actual By.xpath: //*[@label="Help"] visible</div></div></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify that the closing the Help Webview takes the user to the App in portrait mode -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestContext, org.testng.ITestResult)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify that the closing the Help Webview takes the user to the App in portrait mode" name="afterMethod" is-config="true" duration-ms="2" started-at="2018-08-09T15:01:57Z" finished-at="2018-08-09T15:01:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=Verify that the closing the Help Webview takes the user to the App in portrait mode status=SUCCESS method=src.main.resources.scenarios.otherApps.feature.Verify that the closing the Help Webview takes the user to the App in portrait mode()[pri:1015, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7] output=█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass(org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify that the closing the Help Webview takes the user to the App in portrait mode" name="afterClass" is-config="true" duration-ms="1" started-at="2018-08-09T15:01:57Z" finished-at="2018-08-09T15:01:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest(org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3f7]" test-instance-name="Verify whether Help Text displays in the Side Menu in Portrait mode" name="afterTest" is-config="true" duration-ms="16782" started-at="2018-08-09T15:01:57Z" finished-at="2018-08-09T15:02:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7689ddef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.qmetry.qaf.automation.step.client.Scenario -->
+    </test> <!-- Android NextGenNavigationTestFor iPhone-6S Plus -->
+  </suite> <!-- BTTV NextGen Tests -->
+</testng-results>
