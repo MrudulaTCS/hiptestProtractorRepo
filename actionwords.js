@@ -8,7 +8,7 @@ exports.Actionwords = {
 
   },
   iShouldSeeTheAppLogo: function() {
-    var loginButton = element(by.css('#login_button_'));
+    var loginButton = element(by.css('#login_button_id'));
     //browser.wait(EC.visibilityOf(loginButton), 15000);
     expect(loginButton.isPresent()).toEqual(true);
 
