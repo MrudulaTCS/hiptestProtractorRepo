@@ -1,6 +1,6 @@
 exports.Actionwords = {
   stepToLaunchTheApplicationInBrowser: function() {
-    browser.get('https://sport:sport@dev.tvac.bt.com/sportApp/');
+    browser.get('');
     browser.manage().window().maximize();
     browser.sleep(1000);
     console.log('Sample text to make sure it waited');
